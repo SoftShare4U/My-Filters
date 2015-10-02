@@ -1,3 +1,4 @@
+[Adblock Plus 2.0] ! title: SS4U v2015.10.02 for firefox
 @@|http://static.md/5c7127da9e88ca79be9152ee332f5d26|$document
 @@|https://www.facebook.com/ngm.tw?$document
 bomb01.com##.btn.btn-lg.btn-block.btn-facebook.center-block.share_on_facebook
