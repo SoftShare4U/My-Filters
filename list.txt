@@ -139,6 +139,1790 @@ zh.buzzhand.com##SPAN[class="addmore"]
 ||teepr.com/wp-content/themes/truepixel/images/email-icon.png
 ||tw.gigacircle.com/images/SuperSale_GigaCircle720X85.jpg?v=3
 ||ww2.sinaimg.cn/large/68f62d9btw1eqgj47i35oj20k802i74m.jpg
+
+calitatehd.com###fadeinbox > IFRAME:first-child
+
+! 4/27/2015, 7:30:29 PM http://www.123kubo.com/
+www.123kubo.com##.top > .main.datal
+
+! 4/27/2015, 7:30:38 PM http://www.123kubo.com/
+www.123kubo.com###js369
+
+! 4/27/2015, 7:30:52 PM http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(1)
+
+! 4/27/2015, 7:31:43 PM http://www.123kubo.com/vod-read-id-26351.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(2)
+
+! 4/27/2015, 7:32:02 PM http://www.123kubo.com/vod-read-id-26351.html
+||www.123kubo.com/share/mfbc.gif
+
+! 4/27/2015, 7:32:11 PM http://www.123kubo.com/vod-read-id-26351.html
+||www.123kubo.com/share/share50_200.gif
+
+! 4/27/2015, 7:32:20 PM http://www.123kubo.com/vod-read-id-26351.html
+www.123kubo.com##.main > .likebox
+
+! 4/27/2015, 7:32:38 PM http://www.123kubo.com/vod-read-id-26351.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(10)
+
+! 4/27/2015, 7:32:57 PM http://www.123kubo.com/vod-read-id-26351.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(8)
+
+! 2015/4/27 下午9:30:58 http://www.fun-tv.net/
+www.fun-tv.net###aa > div > .scupioadslot
+
+! 2015/4/27 下午9:31:07 http://www.fun-tv.net/
+www.fun-tv.net###content > .g-14.g > .a-48.g-single > .scupioadslot
+
+! 2015/4/27 下午9:31:23 http://www.fun-tv.net/
+www.fun-tv.net###content > .g-16.g > .a-48.g-single > .scupioadslot
+
+! 2015/4/28 下午6:27:58 http://www.sportlunatic.com/#
+www.sportlunatic.com###arm58h3Overlay
+
+! 2015/4/28 下午6:28:05 http://www.sportlunatic.com/#
+www.sportlunatic.com###arm58h3LoadedContent
+
+! 2015/4/28 下午6:28:10 http://www.sportlunatic.com/#
+www.sportlunatic.com###arm58h3Content
+
+! 2015/4/28 下午6:29:32 http://live.drakulastream.eu/static/freepopups/28516406425810.html
+||jjcast.com/player.php?stream=h2feew0o0zim1t6&width=640&height=385
+
+! 5/14/2015, 7:30:22 PM http://cforum.cari.com.my/forum.php?mod=viewthread&tid=3670876
+cforum.cari.com.my###asto_box > div:nth-of-type(1)
+
+! 5/14/2015, 7:30:35 PM http://winrayhwon-winray.blogspot.com/2015/05/Sudirman-Cup-Malaysia-VS-Korea-Live.html
+winrayhwon-winray.blogspot.com###exestylepopupdiv
+
+! 6/17/2015, 6:02:50 PM http://www.fun-tv.net/
+www.fun-tv.net###aa > div > div
+
+! 6/17/2015, 6:37:35 PM http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(4) > table > tbody > tr > td:nth-of-type(2)
+
+! 6/17/2015, 6:37:41 PM http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(4) > table > tbody > tr > td:nth-of-type(2)
+
+! 6/17/2015, 6:37:45 PM http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(4) > table > tbody > tr > td
+
+! 6/17/2015, 6:37:50 PM http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(4) > table
+
+! 6/17/2015, 6:38:18 PM http://www.123kubo.com/vod-read-id-31864.html
+www.123kubo.com##.main > .topRow > .hideCont:nth-of-type(1) > ul > .vmain > .vpl > ul > a[href="http://haowan.698game.com"]
+
+! 6/17/2015, 6:38:25 PM http://www.123kubo.com/vod-read-id-31864.html
+www.123kubo.com##.main > .topRow > .hideCont:nth-of-type(2) > ul > .vmain > .vpl > ul > a[href="http://haowan.698game.com"]
+
+! 6/26/2015, 11:51:26 PM http://2015.vslovetv.com/2014/12/ctime-list.html
+2015.vslovetv.com###Y_TAB
+
+! 6/29/2015, 8:55:36 PM http://www.ik88tv.com/
+||www.ik88tv.com/lucky.gif
+
+! 6/29/2015, 8:55:41 PM http://www.ik88tv.com/
+www.ik88tv.com##.top > .datal > table > tbody > tr > td:nth-of-type(2)
+
+! 6/29/2015, 8:55:47 PM http://www.ik88tv.com/
+www.ik88tv.com##.top > .datal > table > tbody > tr > td:nth-of-type(2)
+
+! 6/29/2015, 8:55:52 PM http://www.ik88tv.com/
+www.ik88tv.com##.top > .datal > table > tbody > tr > td
+
+! 6/29/2015, 8:55:59 PM http://www.ik88tv.com/
+www.ik88tv.com##.top > .datal > table
+
+! 6/29/2015, 8:56:07 PM http://www.ik88tv.com/
+www.ik88tv.com###js369 > .clear.tit
+
+! 6/29/2015, 8:56:21 PM http://www.ik88tv.com/
+||attachment.van698.com/portal/201506/15/1415464d5jjzkkc5j0go5o.jpg
+
+! 6/29/2015, 8:56:27 PM http://www.ik88tv.com/
+www.ik88tv.com###js369
+
+! 6/29/2015, 8:56:40 PM http://www.ik88tv.com/
+www.ik88tv.com##.main > .clear.datal:nth-of-type(3) > table > tbody > tr > td:nth-of-type(3)
+
+! 6/29/2015, 8:56:46 PM http://www.ik88tv.com/
+www.ik88tv.com##.main > .clear.datal:nth-of-type(3) > table > tbody > tr > td:nth-of-type(2)
+
+! 6/29/2015, 8:56:52 PM http://www.ik88tv.com/
+www.ik88tv.com##.main > .clear.datal:nth-of-type(3) > table > tbody > tr > td
+
+! 6/29/2015, 8:56:57 PM http://www.ik88tv.com/
+www.ik88tv.com##.main > .clear.datal:nth-of-type(3) > table
+
+! 6/29/2015, 8:58:13 PM http://www.ik88tv.com/
+www.ik88tv.com##.main > .clear.datal:nth-of-type(4) > table > tbody > tr > td:nth-of-type(3)
+
+! 6/29/2015, 8:58:18 PM http://www.ik88tv.com/
+www.ik88tv.com##.main > .clear.datal:nth-of-type(4) > table > tbody > tr > td:nth-of-type(2)
+
+! 6/29/2015, 8:58:24 PM http://www.ik88tv.com/
+www.ik88tv.com##.main > .clear.datal:nth-of-type(4) > table > tbody > tr > td
+
+! 6/29/2015, 8:58:31 PM http://www.ik88tv.com/
+www.ik88tv.com##.main > .clear.datal:nth-of-type(4) > table
+
+! 7/5/2015, 1:40:21 AM http://cat3movie.us/
+||cat3movie.us/banners/top1porn.gif
+
+! 7/5/2015, 3:09:15 AM http://www.avyahoo.com/forum.php?mod=forumdisplay&fid=37&orderby=dateline&orderby=dateline&filter=author&page=1
+www.avyahoo.com###fwin_popad_7ree
+
+! 7/5/2015, 3:12:51 AM http://embedlink.info/xvideos.php?url=12629087
+||embedlink.info/banner/top1porn.jpg
+
+! 7/5/2015, 3:13:03 AM http://embedlink.info/xvideos.php?url=12629087
+embedlink.info###div_invideo_ad > .div_invideo_1 > .div_invideo_2 > .div_invideo_5
+
+! 7/5/2015, 3:13:11 AM http://embedlink.info/xvideos.php?url=12629087
+embedlink.info###div_invideo_ad > .div_invideo_1
+
+! 7/5/2015, 3:14:19 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline
+www.5278.cc###\30 \.35407946448132577 > .cl.middle
+
+! 7/5/2015, 3:14:30 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline
+www.5278.cc###frameLx3fOF
+
+! 7/5/2015, 3:14:59 AM http://www.5278.cc/forum.php?mod=viewthread&tid=588276&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline
+www.5278.cc###\30 \.26391545668449945 > .cl.middle
+
+! 7/5/2015, 3:15:06 AM http://www.5278.cc/forum.php?mod=viewthread&tid=588276&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline
+www.5278.cc###framer4PyXM
+
+! 7/5/2015, 4:02:19 AM http://www.85porn.net/video/7957
+www.85porn.net###aclose
+
+! 7/5/2015, 4:02:25 AM http://www.85porn.net/video/7957
+www.85porn.net###acenter
+@@|http://static.md/5c7127da9e88ca79be9152ee332f5d26|$document
+@@|https://www.facebook.com/ngm.tw?$document
+bomb01.com##.btn.btn-lg.btn-block.btn-facebook.center-block.share_on_facebook
+buzzlife.com.tw###dialog
+buzzlife.com.tw###ui-id-1
+buzzlife.com.tw##.btn_share_to_fb
+buzzlife.com.tw##.ui-dialog-Gibbs3 content.ui-widget-content
+buzzlife.com.tw##.ui-dialog-title
+buzzlife.com.tw##.ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix
+buzzlife.com.tw##.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.fixed-dialog.ui-draggable.ui-resizable
+buzzlife.com.tw##.ui-resizable-handle.ui-resizable-n
+buzzlife.com.tw##.ui-widget-overlay
+check.nicesoftware.co###link
+ent.ltn.com.tw##DIV[class="share"]
+ettoday.net###footer-garden
+ettoday.net##.collect_box
+ettoday.net##.footer_nav
+facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+ftvv.net##.obj2
+laughbombclub.com##DIV[class="fancybox-overlay fancybox-overlay-fixed"]
+lcthelittleguy.blogspot.com##DIV[id="exestylepopupdiv"]
+lcthelittleguy.blogspot.com##IMG[src="https://lh6.googleusercontent.com/-uSW_8HWcJII/T9shJ_kvWwI/AAAAAAAACgI/9xs1KMJtUtc/s40/exeideasclose.png"]
+open-dialogues.blogspot.tw##DIV[id="comments"][class="comments"]
+s90.ptt01.cc##A[class="btn btn-lg btn-block"]
+s90.ptt01.cc##DIV[class="fancybox-overlay fancybox-overlay-fixed"]
+s92.ptt01.cc##DIV[class="fancybox-overlay fancybox-overlay-fixed"]
+seoulsunday.com##A[class="btn btn-lg btn-block btn-facebook center-block share_on_facebook"]
+seoulsunday.com##A[class="fancybox-item fancybox-close"]
+seoulsunday.com##DIV[class="fancybox-overlay fancybox-overlay-fixed"]
+seoulsunday.com##DIV[class="fancybox-skin"]
+shareba.com###cLightBoxBackView
+shareba.com###show_box_close
+shareba.com###show_box_main
+shareba.com###show_box_title
+shareba.com##.social-icons
+stoneip.info##A[id="arevicofancy-close"]
+teepr.com###WFIheader
+teepr.com###mobileFBLike
+teepr.com###popmake-103747
+teepr.com###popmake-145753
+teepr.com###popmake-overlay
+teepr.com###topAdBlock
+teepr.com###vdsShare
+teepr.com###wf-sort-id
+teepr.com##.hoverable.share-fb.post-bot-fb
+teepr.com##.mobile-fb-like-box
+teepr.com##.popmake-close
+teepr.com##.popmake-overlay
+teepr.com##.popmake.size-auto.active.fixed.custom-position
+teepr.com##.popmake.size-custom.active.fixed.custom-position
+teepr.com##.scroll-trigger-text
+teepr.com##.topad
+teepr.com##.wf-header.el
+teepr.com##.wf-sortable
+teepr.com##h1[style="margin: 0px 0px 5px; padding: 0 10px; background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); font-size: 20px; font-weight: normal; font-family: arial; text-align: center;"]
+tw.gigacircle.com###geom_inter_1_1427263462180_42
+tw.gigacircle.com###geom_inter_2_1427263334974_93
+tw.gigacircle.com##.fb-box
+tw.gigacircle.com##.fb-form
+vdoobv.com##DIV[class="td-tags-and-social-wrapper-box td-tags-and-social-wrapper-box-bottom-line"]
+win10.ithome.com##.app
+win10.ithome.com##.sfa.block1
+win10.ithome.com##.sfa.block1.joinus
+win10.ithome.com##.text1
+win10.ithome.com##.weixin
+win8china.com###recommend
+win8china.com##.close
+win8china.com##.recommend_box
+win8china.com##.share2
+win8china.com##.social_share
+www.ettoday.net###commentTab
+www.ettoday.net###et-express
+www.ettoday.net###for-event
+www.ettoday.net###news-keywords
+www.ettoday.net###pet-menu
+www.ettoday.net###prev-next-news
+www.ettoday.net##.block
+www.ettoday.net##.block_content
+www.ettoday.net##.block_footer
+www.ettoday.net##.block_title
+www.ettoday.net##.col_3.clearfix
+www.ettoday.net##.editor-choice
+www.ettoday.net##.epaper-subscribe
+www.ettoday.net##.ettop
+www.ettoday.net##.extended
+www.ettoday.net##.fb_fans.xfb
+www.ettoday.net##.inner
+www.ettoday.net##.label-tab
+www.ettoday.net##.menu_page
+www.ettoday.net##.menu_txt_2
+www.ettoday.net##.menu_txt_3
+www.ettoday.net##.no-print
+www.ettoday.net##.operate_1
+www.ettoday.net##.part_list_2
+www.ettoday.net##.part_thumb_1
+www.ettoday.net##.recom-events
+www.ettoday.net##.social_share
+www.ettoday.net##DIV[class="bshare-custom icon-medium-plus"]
+www.ettoday.net##DIV[class="overlay"]
+www.ettoday.net##DIV[class="pic"]
+www.ettoday.net##a[style="display:block;width:600px;height:322px;background:url(http://cache.ettoday.net/lemon/images/qrcode-600x322.jpg) no-repeat"]
+www.ettoday.net##a[style="display:block;width:600px;height:322px;background:url(http://www.ettoday.net/events/qrcode/star-qrcode-600X322.png) no-repeat"]
+www.ettoday.net##div[style="height:34px;line-height:34px;font-size:12px;background-color:#fff;padding:0 2px;"]
+www.ettoday.net##div[style="position:absolute;top:2px;right:5px;z-index:1;"]
+www.ettoday.net##p[style="color:#ff00ff;font-weight:bold;text-align:center"]
+www.ettoday.net##p[style="color:red;text-align:center"]
+www.fashionwaltz.com##DIV[class="shareaholic-share-buttons-container shareaholic-ui  badge-counter"]
+www.fashionwaltz.com##I[class="shareaholic-service-icon service-weibo"]
+www.life.com.tw##DIV[id="box"][class="leftshare shadow"]
+www.life.com.tw##DIV[id="btn-share-fb"]
+www.mobile01.com##P[class="nav"]
+www.setn.com##IMG[src="/images/black_icon.png"]
+www.setn.com##IMG[src="http://setmoney.blob.core.windows.net/images/4everYoung-105x190.gif"]
+www.taiyuku.com##A[class="wdpu-close"]
+www.taiyuku.com##DIV[class="wdpu-msg resize move no-move-x "]
+www.taiyuku.com##DIV[id="a7d35d984922b658eb2198ef0acc711e8"][class="style-simple wdpu-container wdpu-background no-img rounded wdpu-14782 "]
+www.taiyuku.com##DIV[id="abbb95558eb1c3f92eefa42addc4e2af5"][class="style-simple wdpu-container wdpu-background no-img rounded wdpu-14782 "]
+zh.buzzhand.com##A[class="ui_btn ui_btn_blue ml5 mr5 fb_aftercontent"]
+zh.buzzhand.com##A[class="ui_btn ui_btn_blue ml5 mr5"]
+zh.buzzhand.com##A[class="ui_btn ui_btn_blue"]
+zh.buzzhand.com##A[class="ui_btn ui_btn_red mr5"]
+zh.buzzhand.com##A[class="ui_btn ui_btn_red"]
+zh.buzzhand.com##DIV[class="mash-lightbox small-white-dialog shown mash-lightbox-fixed"]
+zh.buzzhand.com##DIV[id="sidebarShare"]
+zh.buzzhand.com##SPAN[class="addmore"]
+||50.115.124.117/attachments/block/81/815d0557818340e8357987a2550622c8.jpg
+||api.shareba.com/v1/plugins/like?href=http%3A%2F%2Fshareba.com%2F%3Fdo%3D%2Fblog%2F159842%2F&callback=false&ish=__sih1427268557590
+||ettoday.net/data/news-express-2.php?width=650&height=280&title=1&news=5&theme=light&content=all&border=#cccccc
+||ftvv.net/wp-content/uploads/2014/10/1-130115103515_%E5%89%AF%E6%9C%AC.jpg
+||img.ithome.com/images/v2.1/qr58.png
+||img.ithome.com/images/v2.1/weixin58.png
+||setn.com/images/email40.png
+||setn.com/images/fb40.png
+||setn.com/images/picon40.png
+||setn.com/images/sina40.png
+||shareba.com/theme/frontend/shareba/style/eversuper/image/icon/icon_p_03.png
+||teepr.com/fb_share_button.png
+||teepr.com/small-fb-share-btn.png
+||teepr.com/wp-content/themes/truepixel/images/email-icon.png
+||tw.gigacircle.com/images/SuperSale_GigaCircle720X85.jpg?v=3
+||ww2.sinaimg.cn/large/68f62d9btw1eqgj47i35oj20k802i74m.jpg
+video.fc2.com###side_menu
+ck101.com###forum_rules_80
+homura.net###text-4 > DIV.textwidget
+homura.net###text-6 > DIV.textwidget > TABLE:last-child
+homura.net###text-3 > DIV.textwidget > A:last-child > IMG
+homura.net###text-6
+ck101.com###ft > DIV.wp.tns:first-child
+ck101.com###ft > DIV.statement.wp:last-child
+ck101.com###toptb > UL
+scandalshack.com###sub-header
+thefappening.so###masthead > DIV:nth-child(2) > IFRAME
+dudu-sex.com##DIV:nth-child(3) > DIV:nth-child(2)
+kiss520.com###main > TBODY > TR > TD:nth-child(2) > TABLE:nth-child(2) > TBODY > TR > TD > A:first-child > IMG
+kiss520.com###main > TBODY > TR > TD:nth-child(2) > TABLE:nth-child(2) > TBODY > TR > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:nth-child(11) > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:first-child > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:nth-child(9) > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:nth-child(10) > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:nth-child(8) > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:nth-child(7) > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:nth-child(2) > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:nth-child(3) > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:nth-child(4) > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:nth-child(5) > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:nth-child(6) > TD
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:last-child > TD > TABLE:first-child
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:last-child > TD > IFRAME:nth-child(2)
+kiss520.com###main > TBODY > TR > TD:last-child > TABLE > TBODY > TR:last-child > TD > CENTER:last-child
+kiss520.com###main > TBODY > TR > TD:last-child
+kiss520.com###main > TBODY > TR > TD:nth-child(2) > TABLE:nth-child(3) > TBODY > TR:nth-child(28) > TD > TABLE:first-child
+kiss520.com###main > TBODY > TR > TD:nth-child(2) > TABLE:nth-child(3) > TBODY > TR:nth-child(28) > TD > TABLE:nth-child(2) > TBODY > TR > TD
+kiss520.com###main > TBODY > TR > TD:nth-child(2) > TABLE:nth-child(3) > TBODY > TR:nth-child(28) > TD
+kiss520.com###main > TBODY > TR > TD:first-child > TABLE:first-child > TBODY > TR:last-child > TD
+kiss520.com###main > TBODY > TR > TD:first-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child
+kiss520.com###main > TBODY > TR > TD:first-child > A:nth-child(5) > FONT
+kiss520.com###main > TBODY > TR > TD:first-child > FONT:last-child > A:nth-child(2) > FONT
+kiss520.com###main > TBODY > TR > TD:first-child > FONT:last-child > FONT:last-child > A:nth-child(2) > FONT
+kiss520.com###main > TBODY > TR > TD:first-child > FONT:last-child > FONT:last-child > FONT:last-child > A:nth-child(2) > FONT
+kiss520.com###main > TBODY > TR > TD:first-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > A:nth-child(2) > FONT
+kiss520.com###main > TBODY > TR > TD:first-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > A:nth-child(2) > FONT
+kiss520.com###main > TBODY > TR > TD:first-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > A:nth-child(2) > FONT
+kiss520.com###main > TBODY > TR > TD:first-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > A:nth-child(2) > FONT
+kiss520.com###main > TBODY > TR > TD:first-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > A:nth-child(2) > FONT
+kiss520.com###main > TBODY > TR > TD:first-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > FONT:last-child > A:nth-child(2) > FONT
+kiss520.com###main > TBODY > TR > TD:nth-child(2) > TABLE:last-child > TBODY > TR > TD > CENTER > A:last-child > IMG
+kiss520.com##DIV:nth-child(4) > TABLE:nth-child(2)
+kiss520.com##DIV:nth-child(4) > CENTER:last-child
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > TABLE:first-child > TBODY > TR > TD
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > TABLE:nth-child(2)
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > TABLE:nth-child(3) > TBODY > TR > TD
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > TABLE:nth-child(4) > TBODY > TR:first-child > TD
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > IFRAME:nth-child(5)
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > TABLE:nth-child(4) > TBODY > TR:last-child > TD
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > A.mainmenu:nth-child(134) > IMG:first-child
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > A.mainmenu:nth-child(134)
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > IFRAME:nth-child(136)
+kiss520.com###main > FORM:nth-child(3)
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > HR.hr:last-child
+kiss520.com###main > TABLE:nth-child(5) > TBODY > TR > TD:last-child
+kiss520.com###main > TABLE:nth-child(5) > TBODY > TR > TD:nth-child(4)
+kiss520.com###main > TABLE:nth-child(5) > TBODY > TR > TD:nth-child(3)
+kiss520.com###main > TABLE:nth-child(5) > TBODY > TR > TD:nth-child(2)
+kiss520.com###main > TABLE:nth-child(5) > TBODY > TR > TD:first-child
+kiss520.com###main > TABLE:nth-child(6) > TBODY > TR > TD > A:last-child > IMG
+kiss520.com###main > TABLE:nth-child(6) > TBODY > TR > TD > A:first-child > IMG
+kiss520.com###main > TBODY > TR > TD:first-child > TABLE:nth-child(2) > TBODY > TR > TD > A:first-child > IMG
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > IFRAME:nth-child(3)
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > TABLE:nth-child(5) > TBODY > TR:first-child > TD
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > IFRAME:nth-child(6)
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > TABLE:nth-child(5) > TBODY > TR:last-child > TD
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > A.mainmenu:nth-child(234) > IMG:first-child
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > IFRAME:nth-child(236)
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > A.mainmenu:nth-child(234)
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > A.mainmenu:nth-child(165) > IMG:first-child
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > A.mainmenu:nth-child(165)
+kiss520.com###main > TABLE:nth-child(2) > TBODY > TR > TD > IFRAME:nth-child(167)
+5278.cc##DIV:nth-child(4)
+5278.cc###frameLx3fOF_left
+5278.cc###ft
+5278.cc###framer4PyXM
+homura.net###text-2 > DIV.textwidget > A:last-child > IMG
+homura.net###text-2 > DIV.textwidget > A:first-child > IMG
+homura.net###text-9 > DIV.textwidget > DIV:first-child
+homura.net###text-9 > DIV.textwidget > DIV:last-child
+homura.net###text-9
+homura.net###text-2
+homura.net###text-3
+homura.net###footer-center > DIV.inner.container_16
+thisav.com###pr-7pdu
+thisav.com###se79
+thisav.com###m2df
+||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=7e13c32551/cloudflare.min.js$domain=thisav.com,third-party
+||images.thisav.com/js/popup.js$domain=thisav.com
+tube8.com##DIV.main-wrapper:nth-child(8) > DIV.level-up-popup-wrapper:nth-child(9) > DIV.level-up-popup
+thefappening.so###post-14777 > DIV.entry-content:nth-child(2) > DIV:first-child > IFRAME
+thefappening.so###comments > DIV:first-child > IFRAME
+thefappening.so###content > DIV:last-child > IFRAME
+thefappening.so###post-14743 > DIV.entry-content:nth-child(2) > DIV:first-child > IFRAME
+/sproject/footer_multi.php
+/sproject/before_post.php
+celeb.gate.cc###nyroModalBg
+bbs.colg.cn###frameIW75k1
+
+! 2015年5月6日 下午11:58:34 http://homura.net/2015/05/06/temperament-mm-wear-loose-skirt-over-to-the-edge/
+||i.minus.com/iW2Sx5MTAHHLo.gif
+
+! 2015年5月6日 下午11:58:46 http://homura.net/2015/05/06/temperament-mm-wear-loose-skirt-over-to-the-edge/
+homura.net##.wumii-popup-hot > .wumii-popup-style > .wumii-popup-style-label
+
+! 2015年5月6日 下午11:58:54 http://homura.net/2015/05/06/temperament-mm-wear-loose-skirt-over-to-the-edge/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-style > .wumii-popup-style-label
+
+! 2015年5月6日 下午11:59:01 http://homura.net/2015/05/06/temperament-mm-wear-loose-skirt-over-to-the-edge/
+homura.net###content > .grid_12.col-main > div:nth-of-type(3) > .single-post > div:nth-of-type(2)
+
+! 2015年5月6日 下午11:59:11 http://homura.net/2015/05/06/temperament-mm-wear-loose-skirt-over-to-the-edge/
+||pic2.qndown.com/doimg/dm6i6k9absea909/
+
+! 2015年5月7日 上午12:08:51 http://homura.net/2015/05/04/against-female-students-in-the-toilet-quick-photo/
+||homura.net/wp-content/uploads/allimg/150126/TB2.jpg
+
+! 2015年5月7日 上午12:09:03 http://homura.net/2015/05/04/against-female-students-in-the-toilet-quick-photo/
+homura.net###content > .grid_12.col-main > div:nth-of-type(3) > .single-post > strong > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(4)
+
+! 2015年5月7日 上午12:09:12 http://homura.net/2015/05/04/against-female-students-in-the-toilet-quick-photo/
+homura.net###wumiiBtnDiv
+
+! 2015年5月7日 上午12:09:18 http://homura.net/2015/05/04/against-female-students-in-the-toilet-quick-photo/
+homura.net###content > .grid_12.col-main > div:nth-of-type(3) > .single-post > strong > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(3) > div > div > div
+
+! 2015年5月7日 上午12:09:24 http://homura.net/2015/05/04/against-female-students-in-the-toilet-quick-photo/
+homura.net###content > .grid_12.col-main > div:nth-of-type(3) > .single-post > strong > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(2) > div > div > div
+
+! 2015年5月7日 上午12:09:33 http://homura.net/2015/05/04/against-female-students-in-the-toilet-quick-photo/
+homura.net###content > .grid_12.col-main > div:nth-of-type(3) > .single-post > strong > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1)
+
+! 2015年5月7日 上午12:09:58 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > .wumii-popup-items > .wumii-popup-item:nth-of-type(8) > .wumii-image-block[href="http://homura.net/2012/11/27/lewd-dialogue-super-exciting/"]
+
+! 2015年5月7日 上午12:10:07 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > .wumii-popup-items > .wumii-popup-item:nth-of-type(7) > .wumii-image-block[href="http://homura.net/2015/04/20/skirt-babes-on-hand-escalator-really-do-not-care/"]
+
+! 2015年5月7日 上午12:10:15 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > .wumii-popup-items > .wumii-popup-item:nth-of-type(1) > .wumii-image-block[href="http://homura.net/2015/04/23/dress-locker-room-school-girl-being-photographed/"]
+
+! 2015年5月7日 上午12:10:39 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > .wumii-popup-items > .wumii-popup-item:nth-of-type(6) > .wumii-image-block[href="http://homura.net/2015/04/13/waiting-for-the-bus-near-the-girl-beat-her-breast-groove/"]
+
+! 2015年5月7日 上午12:10:45 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > .wumii-popup-items > .wumii-popup-item:nth-of-type(5) > .wumii-image-block[href="http://homura.net/2015/04/17/beautiful-sister-likeness-akiho/"]
+
+! 2015年5月7日 上午12:10:54 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > .wumii-popup-items > .wumii-popup-item:nth-of-type(4)
+
+! 2015年5月7日 上午12:11:01 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > .wumii-popup-items > .wumii-popup-item:nth-of-type(3) > .wumii-image-block[href="http://homura.net/2015/04/27/little-miss-perspective-underwear-good-personality/"]
+
+! 2015年5月7日 上午12:11:25 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > .wumii-popup-items > .wumii-popup-item:nth-of-type(2)
+
+! 2015年5月7日 上午12:11:41 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > p > a[href="http://www.wumii.com/widget/relatedItems"]
+
+! 2015年5月7日 上午12:11:53 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net###respond
+
+! 2015年5月7日 上午12:12:05 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net###content > .grid_12.col-main > div:nth-of-type(3) > strong > .tags-share > .post-share > .itemSocialSharing > .itemTwitterButton
+
+! 2015年5月7日 上午12:12:19 http://homura.net/2015/05/05/child-peeking-mom-on-toilet/
+homura.net###content > .grid_12.col-main > div:nth-of-type(3) > strong > .tags-share
+
+! 2015年5月7日 上午12:13:04 http://homura.net/2015/05/03/camera-above-into-the-following-package-hip-skirt/
+||wumii-cc.wumii.cn/site_images/ti/a97EDqG3.jpg?i=mdnRz9JQ
+
+! 2015年5月7日 上午12:13:13 http://homura.net/2015/05/03/camera-above-into-the-following-package-hip-skirt/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > .wumii-popup-items > .wumii-popup-item:nth-of-type(8) > .wumii-image-block[href="http://homura.net/2015/04/07/mesh-stockings-beautiful-pink-lace-panties/"] > .wumii-image-clip
+
+! 2015年5月7日 上午12:13:22 http://homura.net/2015/05/03/camera-above-into-the-following-package-hip-skirt/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content > .wumii-popup-items > .wumii-popup-item:nth-of-type(8) > .wumii-image-block[href="http://homura.net/2015/04/07/mesh-stockings-beautiful-pink-lace-panties/"] > .wumii-image-title
+
+! 2015年5月7日 上午12:13:30 http://homura.net/2015/05/03/camera-above-into-the-following-package-hip-skirt/
+homura.net##.wumii-popup-relatedItems > .wumii-popup-content
+
+! 2015年5月10日 下午6:51:35 http://www.zyscj.com/
+||bbs.zyscj.com/template/comiis_19lou/ads/bad00.jpg
+
+! 2015年5月10日 下午6:52:38 http://www.zyscj.com/
+www.zyscj.com###portal_block_391_content > .portal_block_summary
+
+! 2015年5月10日 下午6:52:45 http://www.zyscj.com/
+www.zyscj.com###portal_block_588_content > .portal_block_summary > .comiis_bpicad
+
+! 2015年5月10日 下午6:53:25 http://www.zyscj.com/
+www.zyscj.com###portal_block_592_content > .portal_block_summary > .comiis_bpicad
+
+! 2015年5月10日 下午6:53:31 http://www.zyscj.com/
+www.zyscj.com###portal_block_399_content > .portal_block_summary > .comiis_bpicad
+
+! 2015年5月10日 下午6:58:04 http://www.zyscj.com/
+www.zyscj.com###portal_block_584_content > .portal_block_summary > .comiis_adbox
+
+! 2015年5月10日 下午7:02:06 http://mags.pdfeden.com/15995.html
+mags.pdfeden.com###main-content > .post-share
+
+! 2015年5月21日 上午1:49:33 http://insidersharing.com/?paged=2
+insidersharing.com###arevicofancy-overlay
+
+! 2015年5月21日 上午1:49:40 http://insidersharing.com/?paged=2
+||www.facebook.com/plugins/likebox.php?id=711321578935511&width=400&height=255&colorscheme=light&show_faces=true&border_color&stream=false&header=false
+
+! 2015年5月21日 上午1:49:45 http://insidersharing.com/?paged=2
+insidersharing.com###arevicofancy-content
+
+! 2015年5月21日 上午1:49:50 http://insidersharing.com/?paged=2
+insidersharing.com###arevicofancy-close
+
+! 2015年5月21日 上午1:50:17 http://insidersharing.com/?p=26863
+insidersharing.com###arevicofancy-bg-s
+
+! 2015年5月21日 上午1:50:54 http://insidersharing.com/?p=26842
+insidersharing.com###arevicofancy-bg-n
+
+! 2015年5月21日 上午1:51:26 http://insidersharing.com/?paged=2
+insidersharing.com###arevicofancy-bg-n
+
+! 2015年5月21日 上午1:51:31 http://insidersharing.com/?paged=2
+insidersharing.com###arevicofancy-bg-s
+
+! 2015/6/5 上午11:47:07 http://zh.buzzhand.com/post_717921.html
+zh.buzzhand.com###wrapMain
+
+! 2015/6/9 下午11:56:59 http://www.celeb.gate.cc/de/home.html
+www.celeb.gate.cc###nyroModalContent
+
+! 2015/6/9 下午11:57:06 http://www.celeb.gate.cc/de/home.html
+www.celeb.gate.cc###closeBut[href="#"]
+
+! 2015/6/9 下午11:57:10 http://www.celeb.gate.cc/de/home.html
+www.celeb.gate.cc###nyroModalWrapper > .wrapper
+
+! 2015/6/9 下午11:57:16 http://www.celeb.gate.cc/de/home.html
+www.celeb.gate.cc###nyroModalWrapper
+
+! 2015/6/9 下午11:57:20 http://www.celeb.gate.cc/de/home.html
+www.celeb.gate.cc###v83154ab6b8
+
+! 2015/6/9 下午11:57:54 http://www.celeb.gate.cc/de/home.html
+www.celeb.gate.cc###nyroModalFull
+
+! 2015/6/9 下午11:58:01 http://www.celeb.gate.cc/de/home.html
+||www.facebook.com/plugins/like_box.php?app_id=&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F1ldYU13brY_.js%3Fversion%3D41%23cb%3Df1203bff08%26domain%3Dwww.celeb.gate.cc%26origin%3Dhttp%253A%252F%252Fwww.celeb.gate.cc%252Ff3d8bb6df8%26relation%3Dparent.parent&container_width=0&header=false&height=280&href=http%3A%2F%2Fwww.facebook.com%2Fcelebgate&locale=de_DE&sdk=joey&show_faces=true&stream=false&width=372
+
+! 2015/6/9 下午11:58:06 http://www.celeb.gate.cc/de/home.html
+www.celeb.gate.cc###content > div:nth-of-type(6) > .fb_iframe_widget.fb-like-box > span
+
+! 2015/6/9 下午11:58:13 http://www.celeb.gate.cc/de/home.html
+www.celeb.gate.cc###menu_sb
+
+! 2015/6/9 下午11:58:19 http://www.celeb.gate.cc/de/home.html
+||stc.celeb.gate.cc/v3/icons/badge_facebook.png
+
+! 2015/6/9 下午11:58:23 http://www.celeb.gate.cc/de/home.html
+||stc.celeb.gate.cc/v3/icons/badge_twitter.png
+
+! 2015/6/10 上午2:05:52 http://yoyo112733.pixnet.net/blog
+||pic.pimg.tw/yoyo112733/1432719087-3253081694.gif?v=1432719091
+
+! 2015/6/10 上午2:06:02 http://yoyo112733.pixnet.net/blog
+||pic.pimg.tw/yoyo112733/1432714871-4280416422.gif?v=1432714874
+
+! 2015/6/10 上午2:06:09 http://yoyo112733.pixnet.net/blog
+||pic.pimg.tw/yoyo112733/1430491848-1089623534.gif?v=1430491851
+
+! 2015/6/10 上午2:06:26 http://yoyo112733.pixnet.net/blog/post/284954011
+yoyo112733.pixnet.net###box1375651 > .entry-content.box-text
+
+! 2015/6/17 上午2:11:39 http://www.dudu-sex.com/board1/data/12335637.htm
+||dudu.best-adult-site.net/style/large.html
+
+! 2015/6/17 上午2:11:46 http://www.dudu-sex.com/board1/data/12335637.htm
+||link.twrank.com/framelinks.php?id=3361
+
+! 2015/6/17 上午2:11:54 http://www.dudu-sex.com/board1/data/12335637.htm
+||top.fadama.com/top/b1.html?ID=dudu
+
+! 2015/6/17 上午2:12:04 http://www.dudu-sex.com/board1/data/12335637.htm
+www.dudu-sex.com###AutoNumber1:nth-of-type(1) > tbody > tr:nth-of-type(3) > td > p
+
+! 2015/6/17 上午2:12:11 http://www.dudu-sex.com/board1/data/12335637.htm
+www.dudu-sex.com###AutoNumber1:nth-of-type(1) > tbody > tr:nth-of-type(1) > td > p
+
+! 2015/6/17 上午2:12:16 http://www.dudu-sex.com/board1/data/12335637.htm
+www.dudu-sex.com###AutoNumber1:nth-of-type(1) > tbody > tr:nth-of-type(4) > td
+
+! 2015/6/17 上午2:13:50 http://www.dudu-sex.com/board1/data/12335636.htm
+www.dudu-sex.com##center > table:nth-of-type(4) > tbody > tr > td > a[href="http://www.avxxb.com/"]
+
+! 2015/6/17 上午2:16:17 http://www.dudu-sex.com/board1/data/12335635.htm
+www.dudu-sex.com##center > p
+
+! 2015/6/17 上午2:16:26 http://www.dudu-sex.com/board1/data/12335635.htm
+www.dudu-sex.com###AutoNumber2 > tbody > tr > td > p > font
+
+! 2015/6/17 上午2:16:32 http://www.dudu-sex.com/board1/data/12335635.htm
+www.dudu-sex.com##center > table:nth-of-type(5) > tbody > tr > td > p
+
+! 2015/6/17 上午2:16:38 http://www.dudu-sex.com/board1/data/12335635.htm
+www.dudu-sex.com##center > table:nth-of-type(5) > tbody > tr > td
+
+! 2015/6/17 上午2:17:44 http://www.dudu-sex.com/board1/data/12335634.htm
+www.dudu-sex.com###AutoNumber1:nth-of-type(1) > tbody > tr:nth-of-type(2) > td
+
+! 2015/6/17 上午2:17:51 http://www.dudu-sex.com/board1/data/12335634.htm
+www.dudu-sex.com###AutoNumber1:nth-of-type(2) > tbody > tr > td > p
+
+! 2015/6/17 上午2:17:56 http://www.dudu-sex.com/board1/data/12335634.htm
+www.dudu-sex.com###AutoNumber1:nth-of-type(3) > tbody > tr > td > p
+
+! 2015/6/17 上午2:18:20 http://www.dudu-sex.com/board1/data/12335634.htm
+www.dudu-sex.com##center > table:nth-of-type(5)
+
+! 2015/6/17 上午2:18:28 http://www.dudu-sex.com/board1/data/12335634.htm
+www.dudu-sex.com###AutoNumber2 > tbody > tr > td
+
+! 2015/6/17 上午2:24:57 http://www.dudu-sex.com/board1/data/12335613.htm
+www.dudu-sex.com##center > table:nth-of-type(4) > tbody > tr > td > a[href="http://www.kiss520.com/"]
+
+! 2015/6/17 上午2:25:05 http://www.dudu-sex.com/board1/data/12335613.htm
+||mms.blog.xuite.net/5/3/5/7/25093015/blog_2309099/dv/81644178/81644178_0.swf
+
+! 2015/6/17 上午2:25:13 http://www.dudu-sex.com/board1/data/12335613.htm
+||mms.blog.xuite.net/5/3/5/7/25093015/blog_2309099/dv/84638924/84638924_0.swf
+
+! 2015/6/17 下午2:58:44 http://www.123kubo.com/
+www.123kubo.com##.top > .main.datal > table > tbody > tr > td:nth-of-type(3) > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午2:58:48 http://www.123kubo.com/
+www.123kubo.com##.top > .main.datal > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午2:58:53 http://www.123kubo.com/
+www.123kubo.com##.top > .main.datal > table > tbody > tr > td:nth-of-type(1)
+
+! 2015/6/17 下午2:58:57 http://www.123kubo.com/
+www.123kubo.com##.top > .main.datal > table > tbody > tr > td
+
+! 2015/6/17 下午2:59:03 http://www.123kubo.com/
+www.123kubo.com##.top > .main.datal > table
+
+! 2015/6/17 下午2:59:09 http://www.123kubo.com/
+www.123kubo.com###js369 > .clear.tit
+
+! 2015/6/17 下午2:59:17 http://www.123kubo.com/
+||attachment.van698.com/portal/201506/17/133801ha1azfc18uuclj1z.jpg
+
+! 2015/6/17 下午2:59:22 http://www.123kubo.com/
+||attachment.van698.com/forum/201506/17/14260670kzhkhpgkggaaui.png
+
+! 2015/6/17 下午2:59:26 http://www.123kubo.com/
+||attachment.van698.com/forum/201506/17/135507lhgks4t3ny00tlcc.jpg
+
+! 2015/6/17 下午2:59:30 http://www.123kubo.com/
+www.123kubo.com###js369 > .channel > dl:nth-of-type(4) > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午2:59:33 http://www.123kubo.com/
+www.123kubo.com###js369 > .channel > dl:nth-of-type(5) > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午2:59:36 http://www.123kubo.com/
+www.123kubo.com###js369 > .channel > dl:nth-of-type(6) > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午2:59:40 http://www.123kubo.com/
+||attachment.van698.com/forum/201307/11/172956gykkvg7v7ghhoog7.jpg
+
+! 2015/6/17 下午2:59:44 http://www.123kubo.com/
+||attachment.van698.com/portal/201506/15/1415464d5jjzkkc5j0go5o.jpg
+
+! 2015/6/17 下午2:59:48 http://www.123kubo.com/
+www.123kubo.com###js369
+
+! 2015/6/17 下午2:59:53 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(1) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午2:59:58 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(1) > table > tbody > tr > td:nth-of-type(2) > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午3:00:02 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1)
+
+! 2015/6/17 下午3:00:07 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(1) > table > tbody > tr > td
+
+! 2015/6/17 下午3:00:12 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(1) > table
+
+! 2015/6/17 下午3:00:18 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(3) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:00:50 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(3) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:00:54 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(3) > table > tbody > tr > td
+
+! 2015/6/17 下午3:00:58 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(3) > table
+
+! 2015/6/17 下午3:01:15 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(2) > table > tbody > tr > td:nth-of-type(3) > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午3:01:18 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(2) > table > tbody > tr > td:nth-of-type(1) > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午3:01:23 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(2) > table > tbody > tr > td:nth-of-type(3) > a[href="javascript:;"] > span
+
+! 2015/6/17 下午3:01:28 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(2) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:01:32 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(2) > table > tbody > tr > td:nth-of-type(1)
+
+! 2015/6/17 下午3:01:36 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(2) > table > tbody > tr > td
+
+! 2015/6/17 下午3:01:42 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(2) > table
+
+! 2015/6/17 下午3:01:50 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(5) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:01:54 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(5) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:01:57 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(5) > table > tbody > tr > td
+
+! 2015/6/17 下午3:02:02 http://www.123kubo.com/vod-show-id-1-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(5) > table
+
+! 2015/6/17 下午3:02:17 http://www.123kubo.com/vod-show-id-2-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(6) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:02:22 http://www.123kubo.com/vod-show-id-2-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(6) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:02:26 http://www.123kubo.com/vod-show-id-2-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(6) > table > tbody > tr > td
+
+! 2015/6/17 下午3:02:30 http://www.123kubo.com/vod-show-id-2-p-1.html
+www.123kubo.com##.main > .clear.datal:nth-of-type(6) > table
+
+! 2015/6/17 下午3:03:29 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(4) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:03:33 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(4) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:03:38 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(4) > table > tbody > tr > td
+
+! 2015/6/17 下午3:03:42 http://www.123kubo.com/
+www.123kubo.com##.main > .clear.datal:nth-of-type(4) > table
+
+! 2015/6/17 下午3:04:07 http://www.123kubo.com/vod-read-id-72147.html
+www.123kubo.com###stad > div:nth-of-type(1) > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午3:04:12 http://www.123kubo.com/vod-read-id-72147.html
+www.123kubo.com###stad > div:nth-of-type(2) > .wofav[href="javascript:;"] > span > span
+
+! 2015/6/17 下午3:04:21 http://www.123kubo.com/vod-read-id-72147.html
+www.123kubo.com###stad > div:nth-of-type(2) > .wofav[href="javascript:;"] > span
+
+! 2015/6/17 下午3:04:30 http://www.123kubo.com/vod-read-id-72147.html
+www.123kubo.com##.main > .likebox
+
+! 2015/6/17 下午3:04:46 http://www.123kubo.com/vod-read-id-72147.html
+www.123kubo.com##.footer > .main > li > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午3:05:34 http://www.123kubo.com/vod-play-id-73810-sid-1-pid-1.html
+www.123kubo.com###stad > div:nth-of-type(2) > a[href="http://haowan.698game.com"]
+
+! 2015/6/17 下午3:05:39 http://www.123kubo.com/vod-play-id-73810-sid-1-pid-1.html
+www.123kubo.com##body > .clear.datal:nth-of-type(5) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:05:43 http://www.123kubo.com/vod-play-id-73810-sid-1-pid-1.html
+www.123kubo.com##body > .clear.datal:nth-of-type(5) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:05:47 http://www.123kubo.com/vod-play-id-73810-sid-1-pid-1.html
+www.123kubo.com##body > .clear.datal:nth-of-type(5) > table > tbody > tr > td
+
+! 2015/6/17 下午3:05:52 http://www.123kubo.com/vod-play-id-73810-sid-1-pid-1.html
+www.123kubo.com##body > .clear.datal:nth-of-type(5) > table
+
+! 2015/6/17 下午3:06:02 http://www.123kubo.com/vod-play-id-73810-sid-1-pid-1.html
+www.123kubo.com##body > .clear.datal:nth-of-type(2)
+
+! 2015/6/17 下午3:06:45 http://www.123kubo.com/vod-read-id-73810.html
+www.123kubo.com##.main > .topRow > .hideCont:nth-of-type(3) > ul > .vmain > .vpl > ul > a[href="http://haowan.698game.com"]
+
+! 2015/6/17 下午3:07:09 http://www.123kubo.com/vod-read-id-73810.html
+www.123kubo.com##.main > .topRow > .hideCont:nth-of-type(4) > ul > .vmain > .vpl > ul > a[href="http://haowan.698game.com"]
+
+! 2015/6/17 下午3:07:15 http://www.123kubo.com/vod-read-id-73810.html
+www.123kubo.com##.main > .topRow > .hideCont:nth-of-type(1) > ul > .vmain > .vpl > ul > a[href="http://haowan.698game.com"]
+
+! 2015/6/17 下午3:07:20 http://www.123kubo.com/vod-read-id-73810.html
+www.123kubo.com##.main > .topRow > .hideCont:nth-of-type(2) > ul > .vmain > .vpl > ul > a[href="http://haowan.698game.com"]
+
+! 2015/6/17 下午3:08:10 http://www.123kubo.com/168player/youtube.php?i=type1=b7eOrh4mmfY,ZSa5yzJ435Q,sRL62_KgE0g,TWTwOu8MEa4&title=%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6_20150101_%E5%85%83%E6%97%A6%E9%80%A3%E5%81%87%E6%9C%80%E6%8E%A8%21_%E8%8A%B1%E6%9D%B1%E9%87%91%E5%A5%BD%E9%81%8B%E6%97%85%E8%A1%8C%E5%9C%98%21
+www.123kubo.com##.container > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(3) > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午3:08:14 http://www.123kubo.com/168player/youtube.php?i=type1=b7eOrh4mmfY,ZSa5yzJ435Q,sRL62_KgE0g,TWTwOu8MEa4&title=%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6_20150101_%E5%85%83%E6%97%A6%E9%80%A3%E5%81%87%E6%9C%80%E6%8E%A8%21_%E8%8A%B1%E6%9D%B1%E9%87%91%E5%A5%BD%E9%81%8B%E6%97%85%E8%A1%8C%E5%9C%98%21
+www.123kubo.com##.container > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1) > a[href="javascript:;"] > span > span
+
+! 2015/6/17 下午3:08:18 http://www.123kubo.com/168player/youtube.php?i=type1=b7eOrh4mmfY,ZSa5yzJ435Q,sRL62_KgE0g,TWTwOu8MEa4&title=%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6_20150101_%E5%85%83%E6%97%A6%E9%80%A3%E5%81%87%E6%9C%80%E6%8E%A8%21_%E8%8A%B1%E6%9D%B1%E9%87%91%E5%A5%BD%E9%81%8B%E6%97%85%E8%A1%8C%E5%9C%98%21
+www.123kubo.com##.container > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:08:26 http://www.123kubo.com/168player/youtube.php?i=type1=b7eOrh4mmfY,ZSa5yzJ435Q,sRL62_KgE0g,TWTwOu8MEa4&title=%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6_20150101_%E5%85%83%E6%97%A6%E9%80%A3%E5%81%87%E6%9C%80%E6%8E%A8%21_%E8%8A%B1%E6%9D%B1%E9%87%91%E5%A5%BD%E9%81%8B%E6%97%85%E8%A1%8C%E5%9C%98%21
+www.123kubo.com##.container > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(2)
+
+! 2015/6/17 下午3:08:30 http://www.123kubo.com/168player/youtube.php?i=type1=b7eOrh4mmfY,ZSa5yzJ435Q,sRL62_KgE0g,TWTwOu8MEa4&title=%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6_20150101_%E5%85%83%E6%97%A6%E9%80%A3%E5%81%87%E6%9C%80%E6%8E%A8%21_%E8%8A%B1%E6%9D%B1%E9%87%91%E5%A5%BD%E9%81%8B%E6%97%85%E8%A1%8C%E5%9C%98%21
+www.123kubo.com##.container > div:nth-of-type(1) > table > tbody > tr > td
+
+! 2015/6/17 下午3:08:34 http://www.123kubo.com/168player/youtube.php?i=type1=b7eOrh4mmfY,ZSa5yzJ435Q,sRL62_KgE0g,TWTwOu8MEa4&title=%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6_20150101_%E5%85%83%E6%97%A6%E9%80%A3%E5%81%87%E6%9C%80%E6%8E%A8%21_%E8%8A%B1%E6%9D%B1%E9%87%91%E5%A5%BD%E9%81%8B%E6%97%85%E8%A1%8C%E5%9C%98%21
+www.123kubo.com##.container > div:nth-of-type(1) > table
+
+! 2015/6/29 上午1:40:10 http://kiss520.com/pic/pic2.html
+kiss520.com###main > tbody > tr > td:nth-of-type(2) > table:nth-of-type(3) > tbody > tr:nth-of-type(8) > td
+
+! 2015/6/29 上午1:40:22 http://kiss520.com/pic/pic2.html
+||5.blog.xuite.net/5/3/5/7/25093015/blog_2309099/txt/195403731/2.gif
+
+! 2015/6/29 上午1:42:45 http://kiss520.com/blog/2012/blk1607.htm
+||kiss520.com/blog/op001.gif
+
+! 2015/6/29 上午1:42:52 http://kiss520.com/blog/2012/blk1607.htm
+||5.blog.xuite.net/5/3/5/7/25093015/blog_2309099/txt/41981396/18.jpg
+
+! 2015/6/29 上午1:42:59 http://kiss520.com/blog/2012/blk1607.htm
+||5.blog.xuite.net/5/3/5/7/25093015/blog_2309099/txt/41981396/19.jpg
+
+! 2015/6/29 上午1:43:04 http://kiss520.com/blog/2012/blk1607.htm
+||5.blog.xuite.net/5/3/5/7/25093015/blog_2309099/txt/41981396/25.jpg
+
+! 2015/6/29 上午1:43:09 http://kiss520.com/blog/2012/blk1607.htm
+||5.blog.xuite.net/5/3/5/7/25093015/blog_2309099/txt/41981396/23.jpg
+
+! 2015/6/29 上午1:43:14 http://kiss520.com/blog/2012/blk1607.htm
+||5.blog.xuite.net/5/3/5/7/25093015/blog_2309099/txt/41981396/21.jpg
+
+! 2015/6/29 上午1:43:19 http://kiss520.com/blog/2012/blk1607.htm
+||5.blog.xuite.net/5/3/5/7/25093015/blog_2309099/txt/41981396/22.jpg
+
+! 2015/6/29 上午1:43:26 http://kiss520.com/blog/2012/blk1607.htm
+||5.blog.xuite.net/5/3/5/7/25093015/blog_2309099/txt/41981396/20.jpg
+
+! 2015/6/29 上午1:43:36 http://kiss520.com/blog/2012/blk1607.htm
+||5.blog.xuite.net/5/3/5/7/25093015/blog_2309099/txt/41981396/24.jpg
+
+! 2015/6/29 上午1:43:41 http://kiss520.com/blog/2012/blk1607.htm
+||5.mms.blog.xuite.net/5/3/5/7/25093015/blog_2309099/dv/86119757/86119757_0.swf
+
+! 2015/6/30 上午1:07:59 http://700didi.com/tuqu/75/359077.html?jdfwkey=159w82
+||ww3.sinaimg.cn/large/005PtECcgw1elr7cqdx6ag30p001o0wg.gif
+
+! 2015/6/30 上午1:08:04 http://700didi.com/tuqu/75/359077.html?jdfwkey=159w82
+||ww3.sinaimg.cn/mw1024/c00f4a08gw1et681n8114g20p001ojvo.gif
+
+! 2015/6/30 上午1:08:08 http://700didi.com/tuqu/75/359077.html?jdfwkey=159w82
+||ww2.sinaimg.cn/large/005S1G8Qjw1eqb4y22riig30p001oac7.gif
+
+! 2015/6/30 上午1:08:12 http://700didi.com/tuqu/75/359077.html?jdfwkey=159w82
+||ww2.sinaimg.cn/mw1024/005NBVk8gw1erlow40mxpg30qo01on24.gif
+
+! 2015/6/30 上午1:08:17 http://700didi.com/tuqu/75/359077.html?jdfwkey=159w82
+||31.media.tumblr.com/80d7232b31381a28099a9241ed11e688/tumblr_n9kxetkUzE1tbgy27o1_1280.gif
+
+! 2015/6/30 上午1:10:41 http://700didi.com/tuqu/76/
+||ww4.sinaimg.cn/mw1024/c00f4a08gw1et67bwl9o5g20p001ojul.gif
+
+! 2015/6/30 上午1:10:45 http://700didi.com/tuqu/76/
+||ww1.sinaimg.cn/large/0062EICVgw1erdpdga5hvg30qo028q5c.gif
+
+! 2015/6/30 上午1:10:49 http://700didi.com/tuqu/76/
+||ww2.sinaimg.cn/large/ea3b6eb9jw1enczs56ka1g20qo028mzc.gif
+
+! 2015/6/30 上午1:10:53 http://700didi.com/tuqu/76/
+||ww3.sinaimg.cn/large/ea3b6eb9jw1enczo4g5q0g20qr026q5r.gif
+
+! 2015/6/30 上午1:10:58 http://700didi.com/tuqu/76/
+||winwant.com/ax/008ad.jpg
+
+! 2015/6/30 上午1:11:44 http://700didi.com/tuqu3/96/516102.html
+||ww3.sinaimg.cn/large/005M5Ibcgw1er0p4hdd2kg305k05k75d.gif
+
+! 2015/6/30 上午1:11:50 http://700didi.com/tuqu3/96/516102.html
+||a.share.photo.xuite.net/sesedaotong/1a82076/18554841/1015280029_x.jpg
+
+! 2015/6/30 上午2:02:17 http://www.dudu-sex.com/board1/data/12336389.htm
+||5.mms.blog.xuite.net/5/3/5/7/25093015/blog_2309099/dv/301905935/301905935_0.swf
+
+! 2015/6/30 上午2:02:25 http://www.dudu-sex.com/board1/data/12336389.htm
+||www.kiss520.com/pck.swf
+
+! 2015/6/30 上午2:02:32 http://www.dudu-sex.com/board1/data/12336389.htm
+||www.kiss520.com/E.swf
+
+! 7/6/2015, 2:48:45 AM http://embedlink.info/xvideos.php?url=12629483
+embedlink.info###div_invideo_ad > .div_invideo_1
+
+! 7/6/2015, 8:22:05 PM http://www.141tube.com/videos?o=mr&t=a
+www.141tube.com###adultwarningmask
+
+! 7/7/2015, 1:54:29 AM http://asianamateurpost.com/2015/06/slim-chinese-girl-street-upskirt-shots/
+||gfsex.info/banners/banner-aap-680-7.jpg
+
+! 7/7/2015, 1:54:43 AM http://asianamateurpost.com/2015/06/slim-chinese-girl-street-upskirt-shots/
+||gfsex.info/banners/banner-aap-680-10.jpg
+
+! 7/27/2015, 12:09:56 AM http://javhdsex.net/movies/hot/289
+||www.viralbuzz.info/chipfa.html
+
+! 7/27/2015, 12:10:12 AM http://javhdsex.net/movies/hot/289
+javhdsex.net###hide_float_left
+
+! 7/28/2015, 1:06:09 AM http://www.youporn.com/
+www.youporn.com##.message-bar > b
+
+! 7/28/2015, 1:15:10 AM http://www.tubecup.com/videos/550594/picking-up-hookers/?promo=10230
+www.tubecup.com###playvideot > .pl_adv1
+
+! 7/28/2015, 1:15:21 AM http://www.tubecup.com/videos/550594/picking-up-hookers/?promo=10230
+www.tubecup.com##.wrapper-holder > .wrapper:nth-of-type(1) > .main > .twocolumns > .video > .aside > .hold-adv > .advertising
+
+! 7/28/2015, 1:15:31 AM http://www.tubecup.com/videos/550594/picking-up-hookers/?promo=10230
+www.tubecup.com##.wrapper-holder > .wrapper:nth-of-type(1) > .main > .adv_block:nth-of-type(4) > .hold > .advertising
+
+! 7/28/2015, 1:15:58 AM http://www.tubecup.com/videos/550594/picking-up-hookers/?promo=10230
+||tube911.com/frends_tc2.php?Grupsnames=Amateur|Asian|Korean|Big%20Tits
+
+! 7/29/2015, 7:36:41 PM http://vodly.to/
+vodly.to###sticky-footer
+
+! 7/31/2015, 10:46:38 PM https://www.youtube.com/watch?v=fn2xFOkNmTk
+www.youtube.com###watch7-sidebar-ads
+
+! 8/7/2015, 12:38:47 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+||avshow.f1.com.tw/BANNER/live173_20090728/banner468x60_live173.gif
+
+! 8/7/2015, 12:38:54 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+||ads.exoclick.com/iframe.php?idzone=1072868&size=250x250
+
+! 8/7/2015, 12:39:00 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+||www.5278.cc/static/image/common/ad_close.gif
+
+! 8/7/2015, 12:39:08 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+||50.115.123.38/ad/5278/m1_2.php
+
+! 8/7/2015, 12:39:12 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+||50.115.123.38/ad/5278/m3_4.php
+
+! 8/7/2015, 12:39:16 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+||50.115.123.38/ad/5278/m11.php
+
+! 8/7/2015, 12:39:21 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+||50.115.123.38/ad/5278/m12.php
+
+! 8/7/2015, 12:39:27 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+www.5278.cc###portal_block_127 > .title.blocktitle
+
+! 8/7/2015, 12:39:31 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+www.5278.cc###\30 \.8385425393381708 > .cl.middle
+
+! 8/7/2015, 12:39:38 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+www.5278.cc###frameLx3fOF
+
+! 8/7/2015, 12:39:47 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+www.5278.cc###ct > .mn > table > tbody > tr > td:nth-of-type(5)
+
+! 8/7/2015, 12:39:52 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+||ads.exoclick.com/iframe.php?idzone=1089148&size=300x250
+
+! 8/7/2015, 12:39:56 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+www.5278.cc###ct > .mn > table > tbody > tr > td:nth-of-type(3)
+
+! 8/7/2015, 12:40:01 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=2
+www.5278.cc###ct > .mn > table > tbody > tr > td:nth-of-type(1)
+
+! 8/7/2015, 12:40:54 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=3
+www.5278.cc##mybase > .a_h.wp
+
+! 8/7/2015, 12:41:03 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=3
+||50.115.123.38/ad/5278/m1_2.php
+
+! 8/7/2015, 12:41:48 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=3
+www.5278.cc###hd > .wp > .a_mu
+
+! 8/7/2015, 12:42:00 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=3
+www.5278.cc##mybase > .a_h.wp
+
+! 8/7/2015, 12:42:13 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=3
+www.5278.cc###\30 \.7829336446228001 > .cl.middle
+
+! 8/7/2015, 12:42:24 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=3
+www.5278.cc###ct > .mn > table > tbody > tr
+
+! 8/7/2015, 12:42:37 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=3
+www.5278.cc###diy4
+
+! 8/7/2015, 12:42:49 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=3
+www.5278.cc##mybase > .a_cn > iframe
+
+! 8/7/2015, 12:43:06 AM http://www.5278.cc/forum.php?mod=forumdisplay&fid=23&filter=author&orderby=dateline&orderby=dateline&&page=3
+www.5278.cc##mybase > .a_cn
+
+ifirstrowus.eu###adblockplus
+ifirstrowus.eu###adblock
+##.pr-widget
+##.afs_ads
+###adblock
+
+! 8/7/2015, 1:47:27 AM http://jav24.us/
+jav24.us##.afs_ads
+jav24.us#@#.afs_ads
+
+! 8/7/2015, 1:47:45 AM http://jav24.us/
+jav24.us##.afs_ads
+
+! 8/8/2015, 10:25:34 PM https://www.youtube.com/watch?v=yqtBqIBSLNM
+www.youtube.com###watch7-sidebar-ads
+
+! 8/8/2015, 10:26:31 PM https://www.youtube.com/watch?v=yqtBqIBSLNM
+www.youtube.com###watch7-sidebar-ads
+
+! 8/9/2015, 12:16:42 AM https://www.youtube.com/
+www.youtube.com###feed-pyv-container
+
+! 8/12/2015, 12:14:40 AM http://oursogo.com/forum.php?mod=viewthread&tid=1970593&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline%26orderby%3Ddateline
+oursogo.com###wp > .none
+
+|http://$script,domain=ty2016.com|eywedu.com|365essay.com
+|http://$script,third-party,domain=dy1000.com|yatu.tv
+|http://$object,domain=~youku.com|~tudou.com|~iqiyi.com|~pps.tv|~yatu.tv|~1ting.com
+|http://$object,domain=~youku.com|~tudou.com|~iqiyi.com|~pps.tv|~yatu.tv|~1ting.com
+
+! 8/12/2015, 3:10:11 AM http://www.thisav.com/video/157505/gomk-01-%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E5%A6%8A%E5%A8%A0%E3%83%BB%E4%B9%B3%E5%A7%A6%E3%83%BB%E7%94%A3%E5%8D%B5%E3%83%BB%E7%99%BD%E7%9B%AE%E3%83%BB%E3%82%A2%E3%83%98%E9%A1%94%E6%98%87%E5%A4%A9%E5%9C%B0%E7%8D%84-%E9%A3%9B%E7%BF%94%E6%88%A6%E9%9A%8A%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96-%E6%9D%B1%E5%B0%BE%E7%9C%9F%E5%AD%90-part-2.html
+www.thisav.com###adx_floating_div > div
+
+! 8/12/2015, 3:10:37 AM http://www.thisav.com/video/157505/gomk-01-%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E5%A6%8A%E5%A8%A0%E3%83%BB%E4%B9%B3%E5%A7%A6%E3%83%BB%E7%94%A3%E5%8D%B5%E3%83%BB%E7%99%BD%E7%9B%AE%E3%83%BB%E3%82%A2%E3%83%98%E9%A1%94%E6%98%87%E5%A4%A9%E5%9C%B0%E7%8D%84-%E9%A3%9B%E7%BF%94%E6%88%A6%E9%9A%8A%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96-%E6%9D%B1%E5%B0%BE%E7%9C%9F%E5%AD%90-part-2.html
+www.thisav.com###adx_floating_div > div
+
+! 8/12/2015, 3:10:44 AM http://www.thisav.com/video/157505/gomk-01-%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E5%A6%8A%E5%A8%A0%E3%83%BB%E4%B9%B3%E5%A7%A6%E3%83%BB%E7%94%A3%E5%8D%B5%E3%83%BB%E7%99%BD%E7%9B%AE%E3%83%BB%E3%82%A2%E3%83%98%E9%A1%94%E6%98%87%E5%A4%A9%E5%9C%B0%E7%8D%84-%E9%A3%9B%E7%BF%94%E6%88%A6%E9%9A%8A%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96-%E6%9D%B1%E5%B0%BE%E7%9C%9F%E5%AD%90-part-2.html
+||adserver.juicyads.com/adshow.php?adzone=413402
+
+! 8/12/2015, 3:10:50 AM http://www.thisav.com/video/157505/gomk-01-%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E5%A6%8A%E5%A8%A0%E3%83%BB%E4%B9%B3%E5%A7%A6%E3%83%BB%E7%94%A3%E5%8D%B5%E3%83%BB%E7%99%BD%E7%9B%AE%E3%83%BB%E3%82%A2%E3%83%98%E9%A1%94%E6%98%87%E5%A4%A9%E5%9C%B0%E7%8D%84-%E9%A3%9B%E7%BF%94%E6%88%A6%E9%9A%8A%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96-%E6%9D%B1%E5%B0%BE%E7%9C%9F%E5%AD%90-part-2.html
+||adserver.juicyads.com/adshow.php?adzone=352813
+
+! 8/12/2015, 3:11:07 AM http://www.thisav.com/video/157505/gomk-01-%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E5%A6%8A%E5%A8%A0%E3%83%BB%E4%B9%B3%E5%A7%A6%E3%83%BB%E7%94%A3%E5%8D%B5%E3%83%BB%E7%99%BD%E7%9B%AE%E3%83%BB%E3%82%A2%E3%83%98%E9%A1%94%E6%98%87%E5%A4%A9%E5%9C%B0%E7%8D%84-%E9%A3%9B%E7%BF%94%E6%88%A6%E9%9A%8A%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96-%E6%9D%B1%E5%B0%BE%E7%9C%9F%E5%AD%90-part-2.html
+www.thisav.com###content > .span-100 > .box:nth-of-type(1)
+
+! 8/12/2015, 3:11:18 AM http://www.thisav.com/video/157505/gomk-01-%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E5%A6%8A%E5%A8%A0%E3%83%BB%E4%B9%B3%E5%A7%A6%E3%83%BB%E7%94%A3%E5%8D%B5%E3%83%BB%E7%99%BD%E7%9B%AE%E3%83%BB%E3%82%A2%E3%83%98%E9%A1%94%E6%98%87%E5%A4%A9%E5%9C%B0%E7%8D%84-%E9%A3%9B%E7%BF%94%E6%88%A6%E9%9A%8A%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96-%E6%9D%B1%E5%B0%BE%E7%9C%9F%E5%AD%90-part-2.html
+||adserver.juicyads.com/adshow.php?adzone=413318
+
+! 8/12/2015, 3:11:32 AM http://www.thisav.com/video/157505/gomk-01-%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E5%A6%8A%E5%A8%A0%E3%83%BB%E4%B9%B3%E5%A7%A6%E3%83%BB%E7%94%A3%E5%8D%B5%E3%83%BB%E7%99%BD%E7%9B%AE%E3%83%BB%E3%82%A2%E3%83%98%E9%A1%94%E6%98%87%E5%A4%A9%E5%9C%B0%E7%8D%84-%E9%A3%9B%E7%BF%94%E6%88%A6%E9%9A%8A%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96-%E6%9D%B1%E5%B0%BE%E7%9C%9F%E5%AD%90-part-2.html
+||adserver.juicyads.com/adshow.php?adzone=390855
+
+! 8/16/2015, 2:10:49 AM http://oursogo.com/forum.php?mod=forumdisplay&fid=162&filter=author&orderby=dateline
+oursogo.com###ct > .mn > .none
+
+! 8/16/2015, 2:10:55 AM http://oursogo.com/forum.php?mod=forumdisplay&fid=162&filter=author&orderby=dateline
+oursogo.com##.a_f.wp
+
+! 8/26/2015, 2:08:26 AM http://www.5278.cc/agree.php?referer=%2Fforum.php%3Fmod%3Dforumdisplay%26fid%3D23%26filter%3Dauthor%26orderby%3Ddateline
+www.5278.cc##table > tbody > tr:nth-of-type(2) > td > div
+
+! 8/26/2015, 4:05:14 AM http://www.141tube.com/video/10629/%E5%AD%B8%E5%A6%B9%E5%90%83%E5%90%83%E5%8A%A0%E5%BC%B7%E7%89%88.html
+www.141tube.com###ad_center
+
+! 8/26/2015, 4:05:24 AM http://www.141tube.com/video/10629/%E5%AD%B8%E5%A6%B9%E5%90%83%E5%90%83%E5%8A%A0%E5%BC%B7%E7%89%88.html
+www.141tube.com###nuevo_ad
+
+! 8/26/2015, 4:05:38 AM http://www.141tube.com/video/10629/%E5%AD%B8%E5%A6%B9%E5%90%83%E5%90%83%E5%8A%A0%E5%BC%B7%E7%89%88.html
+||www.141tube.com/media/nuevo/player.swf
+
+! 8/26/2015, 4:11:41 AM http://www.85porn.net/video/8895
+www.85porn.net###acenter
+
+! 8/26/2015, 4:11:47 AM http://www.85porn.net/video/8895
+www.85porn.net###aclose
+
+! 8/28/2015, 12:22:39 AM http://javhdonline.com/watch/category/jav-uncensored/
+||ads.exoclick.com/iframe.php?idzone=1637622&size=300x600
+
+! 8/28/2015, 12:22:55 AM http://javhdonline.com/watch/category/jav-uncensored/
+javhdonline.com###text-4 > .textwidget
+
+! 8/28/2015, 12:25:27 AM http://ivhunter.com/
+||www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FIVHuntercom%2F562817103826760&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=true
+
+! 8/28/2015, 12:25:48 AM http://ivhunter.com/
+ivhunter.com###text-5 > .textwidget > form
+
+! 8/28/2015, 12:26:01 AM http://ivhunter.com/
+ivhunter.com###text-3 > .textwidget > center:nth-of-type(2)
+
+! 8/28/2015, 12:26:09 AM http://ivhunter.com/
+ivhunter.com###text-3 > .textwidget > center:nth-of-type(1)
+
+! 8/28/2015, 12:26:19 AM http://ivhunter.com/
+ivhunter.com###text-3 > .textwidget > center:nth-of-type(1)
+
+! 8/28/2015, 12:26:24 AM http://ivhunter.com/
+ivhunter.com###text-3 > .textwidget > center
+
+! 8/28/2015, 1:13:16 AM http://ivhunter.com/jmkd-0030-rikako-suda-%e9%a0%88%e7%94%b0%e7%90%86%e5%a4%8f%e5%ad%90-%e7%90%86%e5%a4%8f%e5%ad%90%e3%81%ae%e3%83%a9%e3%83%b3%e3%83%89%e3%82%bb%e3%83%ab%e6%97%a5%e8%a8%98-vol-6/
+ivhunter.com###text-8 > .textwidget > form
+
+! 8/28/2015, 1:13:27 AM http://ivhunter.com/jmkd-0030-rikako-suda-%e9%a0%88%e7%94%b0%e7%90%86%e5%a4%8f%e5%ad%90-%e7%90%86%e5%a4%8f%e5%ad%90%e3%81%ae%e3%83%a9%e3%83%b3%e3%83%89%e3%82%bb%e3%83%ab%e6%97%a5%e8%a8%98-vol-6/
+ivhunter.com###text-10 > .textwidget > center:nth-of-type(4)
+
+! 8/28/2015, 1:13:32 AM http://ivhunter.com/jmkd-0030-rikako-suda-%e9%a0%88%e7%94%b0%e7%90%86%e5%a4%8f%e5%ad%90-%e7%90%86%e5%a4%8f%e5%ad%90%e3%81%ae%e3%83%a9%e3%83%b3%e3%83%89%e3%82%bb%e3%83%ab%e6%97%a5%e8%a8%98-vol-6/
+ivhunter.com###text-10 > .textwidget > center:nth-of-type(2)
+
+! 8/28/2015, 1:13:37 AM http://ivhunter.com/jmkd-0030-rikako-suda-%e9%a0%88%e7%94%b0%e7%90%86%e5%a4%8f%e5%ad%90-%e7%90%86%e5%a4%8f%e5%ad%90%e3%81%ae%e3%83%a9%e3%83%b3%e3%83%89%e3%82%bb%e3%83%ab%e6%97%a5%e8%a8%98-vol-6/
+ivhunter.com###text-10 > .textwidget > center:nth-of-type(2)
+
+! 8/28/2015, 1:13:41 AM http://ivhunter.com/jmkd-0030-rikako-suda-%e9%a0%88%e7%94%b0%e7%90%86%e5%a4%8f%e5%ad%90-%e7%90%86%e5%a4%8f%e5%ad%90%e3%81%ae%e3%83%a9%e3%83%b3%e3%83%89%e3%82%bb%e3%83%ab%e6%97%a5%e8%a8%98-vol-6/
+ivhunter.com###text-10 > .textwidget > center
+
+! 8/28/2015, 2:00:10 AM http://www.nicovideo.jp/watch/sm26748426
+www.nicovideo.jp###PAGEBODY > div > .wAdjust.content_672 > .logout-video-wrap > .logout-video-thumb-box > .login-box
+
+! 8/28/2015, 2:00:24 AM http://www.nicovideo.jp/watch/sm26748426
+||tn-skr3.smilevideo.jp/smile?i=26748426.L
+
+! 8/28/2015, 2:00:32 AM http://www.nicovideo.jp/watch/sm26748426
+www.nicovideo.jp###PAGEBODY > div > .wAdjust.content_672 > .logout-video-wrap > .logout-video-thumb-box
+
+! 8/28/2015, 2:25:59 AM http://91ndd.com/forum-44-1.html
+91ndd.com###forum_rules_44 > .xg2.ptn
+
+! 8/28/2015, 2:26:05 AM http://91ndd.com/forum-44-1.html
+||91ndd.com/gg/2015071416193446.gif
+
+! 8/28/2015, 2:26:32 AM http://91ndd.com/forum-44-1.html
+||91ndd.com/gg/bg.gif
+
+! 8/28/2015, 3:07:03 AM http://javhdonline.com/watch/spg-16-ayana-nishinaga-%e8%a5%bf%e6%b0%b8%e5%bd%a9%e5%a5%88-fly/
+||ads.exoclick.com/iframe.php?idzone=1637622&size=300x600
+
+! 8/31/2015, 1:20:13 AM http://javhdonline.com/watch/tag/girlsdelta/
+||ads.exoclick.com/iframe.php?idzone=1637622&size=300x600
+
+! 8/31/2015, 1:20:25 AM http://javhdonline.com/
+||ads.exoclick.com/iframe.php?idzone=1637622&size=300x600
+
+! 8/31/2015, 1:57:25 AM http://jav24.us/xem-phim/wanz-387-sex-girl-beauty_o0yfe/
+||prwidgets.com/jav24.us/dh54/300/250
+
+! 8/31/2015, 1:57:33 AM http://jav24.us/xem-phim/wanz-387-sex-girl-beauty_o0yfe/
+jav24.us##.prvisible
+
+! 8/31/2015, 1:57:40 AM http://jav24.us/xem-phim/wanz-387-sex-girl-beauty_o0yfe/
+jav24.us###pages > .wauto > .footer > .menu-f
+
+! 9/1/2015, 12:14:31 AM http://javhdonline.com/watch/tag/girlsdelta/
+||ads.exoclick.com/iframe.php
+
+! 9/3/2015, 2:16:58 AM http://www.85porn.net/video/9068
+www.85porn.net###acenter
+
+! 9/3/2015, 2:17:06 AM http://www.85porn.net/video/9068
+www.85porn.net###aclose
+
+! 9/3/2015, 2:18:18 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row:nth-of-type(4) > .col-lg-4:nth-of-type(3) > .gg-body.well
+
+! 9/3/2015, 2:18:25 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row:nth-of-type(4) > .col-lg-4:nth-of-type(2) > .gg-body.well
+
+! 9/3/2015, 2:18:32 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row:nth-of-type(4) > .col-lg-4:nth-of-type(4)
+
+! 9/3/2015, 2:18:44 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row:nth-of-type(2) > .col-sm-4.col-md-3 > .gg-body.well
+
+! 9/3/2015, 2:20:12 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row:nth-of-type(2) > .col-sm-4.col-md-3 > .gg-body.well
+
+! 9/3/2015, 2:20:31 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row:nth-of-type(4) > .col-lg-4:nth-of-type(4) > .gg-body.well
+
+! 9/3/2015, 2:20:38 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row:nth-of-type(4)
+
+! 9/3/2015, 2:20:56 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row:nth-of-type(4)
+
+! 9/3/2015, 2:22:12 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row:nth-of-type(4)
+
+! 9/3/2015, 2:22:37 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row:nth-of-type(4)
+
+! 9/3/2015, 2:22:51 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .footer-container > .footer-links
+
+! 9/3/2015, 2:23:05 AM http://www.85porn.net/videos?o=mr
+www.85porn.net###wrapper > .container > .row > .col-sm-4.col-md-3 > .gg-body.well
+
+! 9/3/2015, 2:23:30 AM http://www.85porn.net/video/9050
+www.85porn.net###acenter
+
+! 9/3/2015, 2:23:37 AM http://www.85porn.net/video/9050
+www.85porn.net###aclose
+
+! 9/5/2015, 1:50:55 AM http://javhdonline.com/watch/category/jav-censored/page/3/
+||ads.exoclick.com/iframe.php?idzone=1637622&size=300x600
+
+! 9/5/2015, 1:54:29 AM http://javhdonline.com/?s=mkmp
+||ads.exoclick.com/iframe.php?idzone=1637622&size=300x600
+
+! 9/5/2015, 1:54:36 AM http://javhdonline.com/?s=mkmp
+||ads.exoclick.com/iframe.php?idzone=1491062&size=300x250
+
+! 9/9/2015, 12:05:35 AM http://javhdonline.com/watch/category/gravure-idol/
+javhdonline.com###left_ads_float
+
+! 9/11/2015, 6:09:58 PM http://jav24.us/
+jav24.us###pages > .wauto > .main > .content > .sidebar:nth-of-type(3) > .blank_block > .tagcloud.utcw-3m6oqa7 > .utcw-tag-incest.utcw-tag.tag-link-28439[href="http://jav24.us/tag/incest/"]
+
+! 9/12/2015, 2:21:57 AM http://javmobile.net/censored/rocket/rct-401-aoi-field-marin-sister-soap-pot-amaen.html
+||static.exoclick.com/6a97888ec52c042c679a36e919843cca/banners/223528/885817-885816-885815-223528_20150528051048_bz_250x150_323434.gif
+
+! 9/12/2015, 2:22:19 AM http://javmobile.net/censored/rocket/rct-401-aoi-field-marin-sister-soap-pot-amaen.html
+javmobile.net###post-3864 > .td-container:nth-of-type(2) > .td-container-border > .td-pb-row > .td-main-content.td-pb-span12 > .td-ss-main-content > .td-pb-padding-side.td-post-content > .td-a-rec-id-content_top.td-a-rec
+
+! 9/12/2015, 2:22:26 AM http://javmobile.net/censored/rocket/rct-401-aoi-field-marin-sister-soap-pot-amaen.html
+javmobile.net###post-3864 > .td-container:nth-of-type(2) > .td-container-border > .td-pb-row > .td-main-content.td-pb-span12 > .td-ss-main-content > .td-pb-padding-side.td-post-content > .td-a-rec-id-content_inline.td-a-rec > center:nth-of-type(1) > .td-visible-desktop
+
+! 9/12/2015, 2:22:40 AM http://javmobile.net/censored/rocket/rct-401-aoi-field-marin-sister-soap-pot-amaen.html
+||syndication.exoclick.com/ads-iframe-display.php?idzone=1581862&type=160x600&p=http%3A//javmobile.net/censored/rocket/rct-401-aoi-field-marin-sister-soap-pot-amaen.html&dt=1441995706456&sub=&tags=&screen_resolution=1366x768
+
+! 9/12/2015, 2:22:49 AM http://javmobile.net/censored/rocket/rct-401-aoi-field-marin-sister-soap-pot-amaen.html
+||syndication.exoclick.com/ads-iframe-display.php?idzone=1581862&type=160x600&p=http%3A//javmobile.net/censored/rocket/rct-401-aoi-field-marin-sister-soap-pot-amaen.html&dt=1441995706472&sub=&tags=&screen_resolution=1366x768
+
+! 9/12/2015, 2:23:49 AM http://javmobile.net/censored/rocket/rct-401-aoi-field-marin-sister-soap-pot-amaen.html
+||static.exoclick.com/6a97888ec52c042c679a36e919843cca/banners/223528/885817-885816-885815-223528_20150528051048_bz_250x150_323434.gif
+
+! 9/12/2015, 2:24:39 AM http://javmobile.net/
+||static.exoclick.com/6a97888ec52c042c679a36e919843cca/banners/223528/885817-885816-885815-223528_20150528051048_bz_250x150_323434.gif
+
+! 9/12/2015, 2:25:26 AM http://javmobile.net/category/censored
+javmobile.net###divExoLayerWrapper
+
+! 9/12/2015, 2:57:55 AM http://cat3movie.us/category/thai-erotica18
+||adserver.juicyads.com/adshow.php?adzone=419754
+
+! 9/12/2015, 2:58:05 AM http://cat3movie.us/category/thai-erotica18
+||adserver.juicyads.com/adshow.php?adzone=274549
+
+! 9/12/2015, 2:58:30 AM http://cat3movie.us/category/thai-erotica18
+cat3movie.us##.body > .container > .footer > .footer-inner
+
+! 9/12/2015, 2:58:42 AM http://cat3movie.us/category/thai-erotica18
+cat3movie.us###share42 > a[href="#"]:nth-of-type(1)
+
+! 9/12/2015, 2:58:49 AM http://cat3movie.us/category/thai-erotica18
+cat3movie.us###share42 > a[href="#"]:nth-of-type(1)
+
+! 9/12/2015, 2:58:55 AM http://cat3movie.us/category/thai-erotica18
+cat3movie.us###share42 > a[href="#"]:nth-of-type(1)
+
+! 9/12/2015, 2:59:01 AM http://cat3movie.us/category/thai-erotica18
+cat3movie.us###share42 > a[href="#"]:nth-of-type(1)
+
+! 9/12/2015, 2:59:08 AM http://cat3movie.us/category/thai-erotica18
+cat3movie.us###share42 > a[href="#"]:nth-of-type(1)
+
+! 9/12/2015, 2:59:13 AM http://cat3movie.us/category/thai-erotica18
+cat3movie.us###share42 > a[href="#"]:nth-of-type(1)
+
+! 9/12/2015, 2:59:28 AM http://cat3movie.us/category/thai-erotica18
+cat3movie.us###share42 > a[href="#"]
+
+! 9/12/2015, 5:14:51 PM http://javmobile.net/censored/ke-toraibu/ktds-774-tsurupeta-shaved-pretty-my-only-compliant-sister-emily.html
+javmobile.net###post-3853 > .td-container:nth-of-type(2) > .td-container-border > .td-pb-row > .td-main-content.td-pb-span12 > .td-ss-main-content > .td-pb-padding-side.td-post-content > .td-a-rec-id-content_top.td-a-rec
+
+! 9/13/2015, 12:20:10 AM http://javmobile.net/jav-download/rki-400-rookie-x-hobikorekorabo-work-scourge-of-the-evil-sato-airi.html
+javmobile.net###post-1716 > .td-container:nth-of-type(2) > .td-container-border > .td-pb-row > .td-main-content.td-pb-span12 > .td-ss-main-content > .td-pb-padding-side.td-post-content > .td-a-rec-id-content_top.td-a-rec
+
+! 9/13/2015, 1:06:59 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(2) > .style-2.style-1.blog-list > .video:nth-of-type(5) > .ads250
+
+! 9/13/2015, 1:07:09 AM http://www.avhaha.com/
+||adserver.juicyads.com/adshow.php?adzone=124998
+
+! 9/13/2015, 1:07:13 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(1) > .style-2.style-1.blog-list > .ads_index_900x250 > div:nth-of-type(1)
+
+! 9/13/2015, 1:08:11 AM http://www.avhaha.com/
+||adserver.juicyads.com/adshow.php?adzone=341895
+
+! 9/13/2015, 1:08:15 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(2) > .style-2.style-1.blog-list > .video:nth-of-type(4) > .ads250
+
+! 9/13/2015, 1:08:20 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(2) > .style-2.style-1.blog-list > .video:nth-of-type(3) > .ads250
+
+! 9/13/2015, 1:08:25 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(2) > .style-2.style-1.blog-list > .video:nth-of-type(5)
+
+! 9/13/2015, 1:08:39 AM http://www.avhaha.com/newest/page/2/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(1) > .style-2.style-1.blog-list > .ads_index_900x250
+
+! 9/13/2015, 1:08:47 AM http://www.avhaha.com/newest/page/2/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(2) > .style-2.style-1.blog-list > .video:nth-of-type(3)
+
+! 9/13/2015, 1:08:51 AM http://www.avhaha.com/newest/page/2/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(2) > .style-2.style-1.blog-list > .video:nth-of-type(3)
+
+! 9/13/2015, 1:09:07 AM http://www.avhaha.com/
+||graphics.streamray.com/banners/cams/22002/160x600_lesbian.jpg
+
+! 9/13/2015, 1:09:13 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(2) > .style-2.style-1.blog-list > .video:nth-of-type(4)
+
+! 9/13/2015, 1:09:19 AM http://www.avhaha.com/
+||graphics.pop6.com/banners/aff/41129/40027_300x250.gif
+
+! 9/13/2015, 1:09:23 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(3) > .style-2.style-1.blog-list > .video:nth-of-type(3) > .ads250
+
+! 9/13/2015, 1:09:27 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(3) > .style-2.style-1.blog-list > .video:nth-of-type(3)
+
+! 9/13/2015, 1:09:31 AM http://www.avhaha.com/
+||adserver.juicyads.com/adshow.php?adzone=341896
+
+! 9/13/2015, 1:09:35 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(3) > .style-2.style-1.blog-list > .video:nth-of-type(3) > .ads250
+
+! 9/13/2015, 1:09:38 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(3) > .style-2.style-1.blog-list > .video:nth-of-type(4) > .ads250
+
+! 9/13/2015, 1:09:45 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(3) > .style-2.style-1.blog-list > .video:nth-of-type(3)
+
+! 9/13/2015, 1:09:51 AM http://www.avhaha.com/
+www.avhaha.com##.box > .content > .wrapper > .main-content > .panel:nth-of-type(3) > .style-2.style-1.blog-list > .video
+
+! 9/13/2015, 1:11:41 AM http://vod.nexcited.com/
+||vod.nexcited.com/wp-content/themes/nex/ads.php
+
+! 9/13/2015, 1:11:46 AM http://vod.nexcited.com/
+||s17.postimg.org/fum82k9hr/p_SM5_WL1.gif
+
+! 9/13/2015, 1:11:53 AM http://vod.nexcited.com/
+vod.nexcited.com###sidebar
+
+! 9/13/2015, 1:12:08 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2341 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b9%80%e0%b8%a5%e0%b8%82%e0%b8%b2%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%b2%e0%b8%a2%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%82%e0%b8%a1%e0%b8%81%e0%b8%84%e0%b8%a7%e0%b8%a2%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a/"] > .overlay
+
+! 9/13/2015, 1:12:30 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2355 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%8d%e0%b8%b5%e0%b9%88%e0%b8%9b%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%94%e0%b8%b9%e0%b8%9e%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%86/"] > .overlay
+
+! 9/13/2015, 1:12:43 AM http://vod.nexcited.com/
+||vod.nexcited.com/wp-content/themes/nex/ads.php
+
+! 9/13/2015, 1:12:58 AM http://vod.nexcited.com/
+vod.nexcited.com###page > center > iframe
+
+! 9/13/2015, 1:13:19 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2365 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%8a%e0%b8%b2%e0%b8%a2%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b5%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a5%e0%b8%b5%e0%b8%a5%e0%b8%b2%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86/"] > .overlay
+
+! 9/13/2015, 1:13:46 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2349 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%9c%e0%b8%b1%e0%b8%a7%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7/"] > .overlay
+
+! 9/13/2015, 1:14:09 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2368 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%9c%e0%b8%b1%e0%b8%a7%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a1%e0%b8%b5%e0%b8%a2%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%ab%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%ad%e0%b8%a7%e0%b8%94%e0%b8%b5%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%87%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7/"] > .overlay
+
+! 9/13/2015, 1:14:19 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2220 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%ab%e0%b8%a5%e0%b8%b8%e0%b8%94%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b8%96%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%8b%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%ab%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b9%82%e0%b8%a1%e0%b8%81%e0%b8%84%e0%b8%a7%e0%b8%a2%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a/"] > .overlay
+
+! 9/13/2015, 1:14:28 AM http://vod.nexcited.com/
+vod.nexcited.com###post-311 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%ab%e0%b8%99%e0%b8%b8%e0%b9%88%e0%b8%a1%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%95%e0%b8%b9%e0%b8%94%e0%b9%83%e0%b8%99%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99%e0%b8%9a%e0%b8%a3%e0%b8%a3%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b9%80%e0%b8%ab%e0%b9%87%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b9%81%e0%b8%97%e0%b8%99/"] > .overlay
+
+! 9/13/2015, 1:14:34 AM http://vod.nexcited.com/
+vod.nexcited.com###post-318 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%ab%e0%b8%99%e0%b8%b8%e0%b9%88%e0%b8%a1%e0%b8%a3%e0%b8%ad%e0%b8%a2%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%aa%e0%b8%99%e0%b9%88%e0%b8%ab%e0%b9%8c%e0%b9%82%e0%b8%8a%e0%b8%a7%e0%b9%8c%e0%b8%84%e0%b8%a7%e0%b8%a2%e0%b8%96%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%a3%e0%b8%b9%e0%b8%9b%e0%b9%81%e0%b8%96%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%88%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b9%81%e0%b8%95%e0%b8%81%e0%b8%9a%e0%b8%99%e0%b9%80%e0%b8%95%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%80%e0%b8%ab%e0%b9%87%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%ad%e0%b8%b0/"] > .overlay
+
+! 9/13/2015, 1:14:39 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2125 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%b9%e0%b8%99%e0%b9%82%e0%b8%9b%e0%b9%8a%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b8%a0%e0%b8%b2%e0%b8%9ehd%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86/"] > .overlay
+
+! 9/13/2015, 1:14:52 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2268 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%b9%e0%b8%99av%e0%b8%ad%e0%b8%b2%e0%b8%99%e0%b8%b4%e0%b9%80%e0%b8%a1%e0%b8%b0%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%86%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%ad%e0%b8%b2%e0%b8%a3%e0%b8%a1%e0%b8%a2%e0%b9%8c%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%86/"] > .overlay
+
+! 9/13/2015, 1:15:14 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2328 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%84%e0%b8%a5%e0%b8%b4%e0%b8%9b%e0%b9%82%e0%b8%9b%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%82%e0%b8%a1%e0%b8%81%e0%b8%84%e0%b8%a7%e0%b8%a2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%ad%e0%b8%a7%e0%b8%94%e0%b8%b5%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%82%e0%b8%a1%e0%b8%81%e0%b8%84%e0%b8%a7%e0%b8%a2%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b8%8a%e0%b8%b1%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86/"] > .overlay
+
+! 9/13/2015, 1:15:18 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2335 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a5%e0%b8%b5%e0%b8%a5%e0%b8%b2%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%80%e0%b8%ad%e0%b8%a7%e0%b8%94%e0%b8%b5%e0%b8%a5%e0%b8%b5%e0%b8%a5%e0%b8%b2%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b8%82%e0%b8%a2%e0%b9%88%e0%b8%a1%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b9%81%e0%b8%97%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%a2%e0%b8%b1%e0%b9%89%e0%b8%87/"] > .overlay
+
+! 9/13/2015, 1:15:24 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2338 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%84%e0%b8%a5%e0%b8%b4%e0%b8%9b%e0%b9%82%e0%b8%9b%e0%b9%8a%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%8d%e0%b8%b5%e0%b9%88%e0%b8%9b%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b9%82%e0%b8%94%e0%b8%99%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a5%e0%b8%b5%e0%b8%a5%e0%b8%b2%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%86%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b8%99%e0%b8%a1%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%ab%e0%b8%b5%e0%b8%82%e0%b8%b2%e0%b8%a7%e0%b8%ab%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86xxx/"] > .overlay
+
+! 9/13/2015, 1:15:30 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2352 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%84%e0%b8%a5%e0%b8%b4%e0%b8%9b%e0%b9%82%e0%b8%9b%e0%b9%8a%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%88%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b8%94%e0%b8%b9%e0%b8%94%e0%b8%9b%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%ad%e0%b8%b2%e0%b8%a3%e0%b8%a1%e0%b8%a2%e0%b9%8c%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%86porn/"] > .overlay
+
+! 9/13/2015, 1:15:43 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2223 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b8%96%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%ab%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b8%97%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%86%e0%b9%82%e0%b8%a1%e0%b8%81%e0%b8%84%e0%b8%a7%e0%b8%a2%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86/"] > .overlay
+
+! 9/13/2015, 1:15:54 AM http://vod.nexcited.com/
+vod.nexcited.com###post-2309 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b8%96%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b9%82%e0%b8%94%e0%b8%99%e0%b8%a5%e0%b8%87%e0%b9%81%e0%b8%82%e0%b8%81%e0%b9%82%e0%b8%84%e0%b8%95%e0%b8%a3%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%95%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b8%82%e0%b8%b2%e0%b8%a7%e0%b8%ab%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%94%e0%b8%b5%e0%b9%82%e0%b8%a1%e0%b8%81%e0%b8%84%e0%b8%a7%e0%b8%a2%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a/"] > .overlay
+
+! 9/13/2015, 1:16:12 AM http://vod.nexcited.com/
+vod.nexcited.com###post-1782 > .thumb > .clip-link[href="http://vod.nexcited.com/%e0%b8%84%e0%b8%a5%e0%b8%b4%e0%b8%9b%e0%b9%82%e0%b8%9b%e0%b9%8a%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%9c%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%82%e0%b8%ad%e0%b9%80%e0%b8%a1%e0%b8%b5%e0%b8%a2%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b9%80%e0%b8%94%e0%b9%87%e0%b8%94%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%a2%e0%b9%87%e0%b8%94%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b9%81%e0%b8%97%e0%b8%81%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86%e0%b8%84%e0%b8%a3%e0%b8%b2%e0%b8%87%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7/"] > .overlay
+
+! 9/13/2015, 1:45:48 AM http://w.xxxporn5.com/
+||s12.postimg.org/dul37pme5/sextoyprox120x240.gif
+
+! 9/13/2015, 1:45:54 AM http://w.xxxporn5.com/
+||s11.postimg.org/vcpppeadf/unnamed.gif
+
+! 9/13/2015, 1:45:59 AM http://w.xxxporn5.com/
+w.xxxporn5.com###page > div:nth-of-type(3)
+
+! 9/13/2015, 1:46:04 AM http://w.xxxporn5.com/
+w.xxxporn5.com###page > .breadcrumbs
+
+! 9/13/2015, 1:46:33 AM http://w.xxxporn5.com/
+w.xxxporn5.com###post-5988 > .thumb > .clip-link[href="http://w.xxxporn5.com/%e0%b9%81%e0%b8%a1%e0%b9%88%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b8%a1%e0%b8%81%e0%b8%a5%e0%b8%a1%e0%b8%ad%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b8%a3%e0%b8%a7%e0%b8%a2%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%a5%e0%b8%b1%e0%b8%94%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%82%e0%b8%b6%e0%b9%89%e0%b8%99%e0%b8%a3%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%ab%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%81%e0%b8%95%e0%b8%81%e0%b9%83%e0%b8%99%e0%b8%84%e0%b8%b2%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%ad%e0%b8%b2%e0%b8%9a%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%a5%e0%b8%b5%e0%b8%a5%e0%b8%b2%e0%b9%81%e0%b8%88%e0%b9%88%e0%b8%a1%e0%b8%ab%e0%b8%b5%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%95%e0%b8%ad%e0%b8%94/"] > .overlay
+
+! 9/13/2015, 1:47:23 AM http://thaixzeed.com/
+thaixzeed.com###post-535 > .thumb > .clip-link[href="http://thaixzeed.com/%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b8%aa%e0%b8%a7%e0%b8%a2%e0%b9%80%e0%b8%a1%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%a2%e0%b8%9a%e0%b9%82%e0%b8%94%e0%b8%99%e0%b8%a5%e0%b8%b1%e0%b8%81%e0%b8%ab%e0%b8%a5/"]
+
+! 9/13/2015, 1:47:38 AM http://thaixzeed.com/
+thaixzeed.com###post-523 > .thumb > .clip-link[href="http://thaixzeed.com/%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%81%e0%b8%8b%e0%b9%8c%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88/"] > .overlay
+
+! 9/13/2015, 1:47:44 AM http://thaixzeed.com/
+thaixzeed.com###post-557 > .thumb > .clip-link[href="http://thaixzeed.com/%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%a1%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%a3%e0%b8%b9%e0%b8%94%e0%b9%80%e0%b8%a2%e0%b9%88%e0%b8%ad%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89/"] > .overlay
+
+! 9/13/2015, 1:48:29 AM http://thaixzeed.com/
+thaixzeed.com###post-547 > .thumb > .clip-link[href="http://thaixzeed.com/%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b8%a5%e0%b8%b1%e0%b8%81%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%9a-%e0%b9%81%e0%b8%a2%e0%b8%87%e0%b8%a3%e0%b8%b9%e0%b8%ab%e0%b8%b5-%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b9%80/"] > .overlay
+
+! 9/13/2015, 1:53:51 AM https://xvdoporn.com/
+||xvdoporn.com/wp-content/themes/detube/ads.php
+
+! 9/13/2015, 1:54:04 AM https://xvdoporn.com/
+xvdoporn.com###page > center
+
+! 9/13/2015, 1:54:20 AM https://xvdoporn.com/
+xvdoporn.com###content > .rich-content.section-before.section-box:nth-of-type(1)
+
+! 9/13/2015, 1:56:03 AM http://ero-video.net/?minimumLength=60
+ero-video.net##.wrapper > .cols-2 > .col-3
+
+! 9/13/2015, 2:23:10 AM http://javsurf.com/dvd1305/video21482/watch-wanz-389-beauty-undercover-investigator-kayama-yoshisakura.html
+javsurf.com###stop > div > div > div
+
+! 9/13/2015, 2:28:45 AM http://jav-porn.net/dvd7853/video220899/watch-ymdd-057-summer-vacation-honda-riko-yoshinaga-akane-of-school-girls-of-j-cup-freshly-squeezed-st-holstein-school-hokkaido-natural.html
+jav-porn.net###stop > div > div > div
+
+! 9/13/2015, 2:31:56 AM http://jav-porn.net/dvd7853/video220899/watch-ymdd-057-summer-vacation-honda-riko-yoshinaga-akane-of-school-girls-of-j-cup-freshly-squeezed-st-holstein-school-hokkaido-natural.html
+jav-porn.net###stop > div > div > div
+
+! 9/13/2015, 2:32:25 AM http://jav-porn.net/dvd7853/video220899/watch-ymdd-057-summer-vacation-honda-riko-yoshinaga-akane-of-school-girls-of-j-cup-freshly-squeezed-st-holstein-school-hokkaido-natural.html
+jav-porn.net###stop > div > div > div
+
+! 9/13/2015, 2:35:03 AM http://javtube8.com/dvd2827/video38460/watch-ap-128-i39m-not-going-on-no-way-crotch-of-my-sister-should-be-sleeping-re.html
+javtube8.com###stop > div > div > div
+
+! 9/13/2015, 2:58:54 AM http://www.52av.tv/forum-68-1.html
+www.52av.tv###thread_top_ad > div
+
+! 9/13/2015, 2:59:02 AM http://www.52av.tv/forum-68-1.html
+www.52av.tv###list_bottom_ad > div
+
+! 9/13/2015, 2:59:13 AM http://www.52av.tv/forum-68-1.html
+www.52av.tv###forumdisplay_list_top_ad2 > div
+
+! 9/13/2015, 3:27:51 PM http://www.52av.tv/forum.php?mod=viewthread&tid=18310&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline
+||affiliate.dtiserv.com/image/sakuralive_en/1354123_b.gif
+
+! 9/13/2015, 3:27:54 PM http://www.52av.tv/forum.php?mod=viewthread&tid=18310&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline
+||affiliate.dtiserv.com/image/sakuralive_en/1354092_b.jpg
+
+! 9/13/2015, 3:28:01 PM http://www.52av.tv/forum.php?mod=viewthread&tid=18310&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline
+www.52av.tv###pid18310 > tbody > tr:nth-of-type(1) > .plc > .pct > .pcb > .t_fsz > div:nth-of-type(2) > center
+
+! 9/13/2015, 4:43:27 PM http://www.thisav.com/video/164620/%E9%AC%BC%E3%83%95%E3%82%A7%E3%83%A9%E5%9C%B0%E7%8D%84-%E5%A5%B3%E5%AD%90%E6%A0%A1%E7%94%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-2-.html
+||ads.adxpansion.com/public/js/showads_if.php?zone_id=210108
+
+! 9/13/2015, 4:43:33 PM http://www.thisav.com/video/164620/%E9%AC%BC%E3%83%95%E3%82%A7%E3%83%A9%E5%9C%B0%E7%8D%84-%E5%A5%B3%E5%AD%90%E6%A0%A1%E7%94%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-2-.html
+www.thisav.com###adx_floating_div > div > div:nth-of-type(1)
+
+! 9/13/2015, 4:43:40 PM http://www.thisav.com/video/164620/%E9%AC%BC%E3%83%95%E3%82%A7%E3%83%A9%E5%9C%B0%E7%8D%84-%E5%A5%B3%E5%AD%90%E6%A0%A1%E7%94%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-2-.html
+www.thisav.com###adx_floating_div_close[href="javascript: void(0)"]
+
+! 9/13/2015, 4:50:57 PM http://www.thisav.com/video/164620/%E9%AC%BC%E3%83%95%E3%82%A7%E3%83%A9%E5%9C%B0%E7%8D%84-%E5%A5%B3%E5%AD%90%E6%A0%A1%E7%94%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-2-.html
+www.thisav.com###adx_floating_div > div
+
+! 9/13/2015, 4:51:14 PM http://www.thisav.com/video/164620/%E9%AC%BC%E3%83%95%E3%82%A7%E3%83%A9%E5%9C%B0%E7%8D%84-%E5%A5%B3%E5%AD%90%E6%A0%A1%E7%94%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-2-.html
+www.thisav.com###adx_floating_div > div > div:nth-of-type(3)
+
+! 9/13/2015, 4:51:21 PM http://www.thisav.com/video/164620/%E9%AC%BC%E3%83%95%E3%82%A7%E3%83%A9%E5%9C%B0%E7%8D%84-%E5%A5%B3%E5%AD%90%E6%A0%A1%E7%94%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-2-.html
+||ads.adxpansion.com/public/js/showads_if.php?zone_id=210108
+
+! 9/13/2015, 4:51:26 PM http://www.thisav.com/video/164620/%E9%AC%BC%E3%83%95%E3%82%A7%E3%83%A9%E5%9C%B0%E7%8D%84-%E5%A5%B3%E5%AD%90%E6%A0%A1%E7%94%9F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-2-.html
+www.thisav.com###adx_floating_div > div > div:nth-of-type(1)
+
+! 9/14/2015, 3:31:58 PM http://cat3movie.us/page/3
+||adserver.juicyads.com/adshow.php?adzone=274549
+
+! 9/14/2015, 3:32:02 PM http://cat3movie.us/page/3
+||adserver.juicyads.com/adshow.php?adzone=419754
+
+! 9/14/2015, 3:32:23 PM http://cat3movie.us/page/3
+cat3movie.us##.body > .container > .header > .clearfix.header-inner > .row-fluid > .span6:nth-of-type(2)
+
+! 9/14/2015, 3:43:49 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+||adserver.juicyads.com/adshow.php?adzone=285445
+
+! 9/14/2015, 3:43:53 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+embedlink.info##.headerWrapper > .container > .row
+
+! 9/14/2015, 3:43:58 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+||pubmovie.com/advertise/
+
+! 9/14/2015, 3:44:04 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+embedlink.info##.footerWrapper.footer
+
+! 9/14/2015, 3:44:48 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+||adserver.juicyads.com/adshow.php?adzone=285445
+
+! 9/14/2015, 3:44:57 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+||pubmovie.com/advertise/
+
+! 9/14/2015, 3:45:06 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+||adserver.juicyads.com/adshow.php?adzone=285445
+
+! 9/14/2015, 3:45:20 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+||adserver.juicyads.com/adshow.php
+
+! 9/14/2015, 3:45:34 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+embedlink.info##.container > .marketing > .row > .span9 > .row-fluid:nth-of-type(1) > .span12 > iframe
+
+! 9/14/2015, 3:45:41 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+embedlink.info##.container > .marketing > .row > .span9 > .row-fluid:nth-of-type(2) > iframe
+
+! 9/14/2015, 3:45:53 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+embedlink.info##.container > .marketing > .row > .span9 > .row-fluid:nth-of-type(3) > .span12
+
+! 9/14/2015, 3:46:07 PM http://embedlink.info/mega3x.php?url=ss44q3x219u2
+embedlink.info##.container > .marketing > .row > .span9 > .row-fluid:nth-of-type(1) > .span12
+
+! 9/14/2015, 3:47:40 PM http://cat3movie.us/page/3
+cat3movie.us##.body > .container > .footer
+
+! 9/14/2015, 3:47:52 PM http://cat3movie.us/page/3
+cat3movie.us###text-2 > .textwidget > iframe
+
+! 9/14/2015, 3:48:04 PM http://cat3movie.us/page/3
+cat3movie.us###text-4 > .textwidget > iframe
+
+! 9/14/2015, 3:49:23 PM http://www.5278.cc/forum.php?mod=viewthread&tid=601184&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline
+www.5278.cc###pid19049143 > tbody > tr:nth-of-type(1) > .plc > .pct > .pcb > .t_fsz > div:nth-of-type(2) > table > tbody > tr > td:nth-of-type(4) > iframe
+
+! 9/14/2015, 3:49:36 PM http://www.5278.cc/forum.php?mod=viewthread&tid=601184&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline
+www.5278.cc###pid19049143 > tbody > tr:nth-of-type(1) > .plc > .pct > .pcb > .t_fsz > div:nth-of-type(2) > table > tbody > tr > td:nth-of-type(4)
+
+! 9/14/2015, 3:49:42 PM http://www.5278.cc/forum.php?mod=viewthread&tid=601184&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline
+www.5278.cc###pid19049143 > tbody > tr:nth-of-type(1) > .plc > .pct > .pcb > .t_fsz > div:nth-of-type(2) > table > tbody > tr > td:nth-of-type(2) > iframe
+
+! 9/14/2015, 3:51:24 PM http://www.5278.cc/forum.php?mod=viewthread&tid=601140&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline
+||ads.exoclick.com/iframe.php
+
+! 9/14/2015, 3:55:33 PM http://www.5278.cc/forum.php?mod=viewthread&tid=601137&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline
+www.5278.cc###pid19048883 > tbody > tr:nth-of-type(1) > .plc > .pct > .pcb > .t_fsz > div:nth-of-type(2)
+
+! 9/14/2015, 3:56:23 PM http://javmobile.net/
+javmobile.net###td-outer-wrap > .td-content-wrap.td-transition-content-and-menu > .td-container.td-footer-container > .td-pb-row > .td-footer-full.td-pb-span12 > .td-pb-padding-side.td-footer-info
+
+! 9/14/2015, 4:00:54 PM javmobile.net
+@@||p.jwpcdn.com/6/12/jwplayer.html5.js$script,domain=xtubeth.com
+
+! 9/19/2015, 12:08:38 AM http://xxxfk.com/vod-read-id-6194.html
+||widget.plugrush.com/xxxfk.com/3fje
+
+! 9/19/2015, 12:09:11 AM http://xxxfk.com/vod-read-id-6195.html
+||widget.plugrush.com/xxxfk.com/3fje
+
+! 9/19/2015, 12:10:02 AM http://xxxfk.com/vod-read-id-6196.html
+||widget.plugrush.com/xxxfk.com/3fje
+
+! 9/19/2015, 12:11:27 AM http://xxxfk.com/index-index-p-1.html
+||widget.plugrush.com/xxxfk.com/3fje
+
+! 9/19/2015, 12:18:56 AM http://twdvd.com/video/
+||twdvd.com/images/logo.png
+
+! 9/23/2015, 3:50:35 AM http://www.85porn.net/video/9388
+www.85porn.net###aclose
+
+! 9/23/2015, 3:50:43 AM http://www.85porn.net/video/9388
+www.85porn.net###acenter
+
+! 9/25/2015, 2:26:05 AM http://twdvd.com/video/
+||twdvd.com/images/logo.png
+
+! 9/26/2015, 3:47:28 AM http://embedlink.info/mega3x.php?url=78opkpysodh5
+embedlink.info##.container > .marketing > .row > .span9 > .row-fluid:nth-of-type(2) > .span12 > .div_mov > .player > .player > strong
+
+! 9/26/2015, 4:08:14 AM http://www.tubecup.com/videos/373994/horny-sex/
+www.tubecup.com###playvideo642
+
+! 9/26/2015, 4:12:02 AM http://www.tubecup.com/videos/837857/tasty-sally-02/
+www.tubecup.com###playvideot > .heading--dark.heading
+
+! 9/26/2015, 4:12:09 AM http://www.tubecup.com/videos/837857/tasty-sally-02/
+www.tubecup.com###playvideot > .player-desk__body.pl_adv1
+
+! 9/26/2015, 4:12:18 AM http://www.tubecup.com/videos/837857/tasty-sally-02/
+www.tubecup.com###playvideo642
+
+! 9/27/2015, 1:10:17 AM http://javhdonline.com/watch/category/gravure-idol/
+||www.hubtraffic.com/_affiliate/banners/1432064738.gif
+
+! 9/27/2015, 1:10:42 AM http://javhdonline.com/watch/category/gravure-idol/page/2/
+javhdonline.com###right_ads_float
+
+! 9/27/2015, 2:20:50 AM http://www.sesez.com/video/56283/%E9%9F%93%E5%9C%8B-korea1818-2013-2015%E5%90%88%E9%9B%86-2013-10-10-exhibitionist
+www.sesez.com###wrapper > .container:nth-of-type(2) > .row:nth-of-type(2) > .col-md-4 > .ad-body.well
+
+! 9/28/2015, 10:26:57 PM http://www.icovideos.com/post/2/475
+www.icovideos.com###review > .welcomebox
+
+! 9/28/2015, 10:27:06 PM http://www.icovideos.com/post/2/475
+www.icovideos.com###review
+
+! 10/1/2015, 12:52:32 AM http://twdvd.com/video/
+||twdvd.com/images/logo.png
+@@|http://static.md/5c7127da9e88ca79be9152ee332f5d26|$document
+@@|https://www.facebook.com/ngm.tw?$document
+bomb01.com##.btn.btn-lg.btn-block.btn-facebook.center-block.share_on_facebook
+buzzlife.com.tw###dialog
+buzzlife.com.tw###ui-id-1
+buzzlife.com.tw##.btn_share_to_fb
+buzzlife.com.tw##.ui-dialog-content.ui-widget-content
+buzzlife.com.tw##.ui-dialog-title
+buzzlife.com.tw##.ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix
+buzzlife.com.tw##.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.fixed-dialog.ui-draggable.ui-resizable
+buzzlife.com.tw##.ui-resizable-handle.ui-resizable-n
+buzzlife.com.tw##.ui-widget-overlay
+check.nicesoftware.co###link
+ent.ltn.com.tw##DIV[class="share"]
+ettoday.net###footer-garden
+ettoday.net##.collect_box
+ettoday.net##.footer_nav
+facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+ftvv.net##.obj2
+laughbombclub.com##DIV[class="fancybox-overlay fancybox-overlay-fixed"]
+lcthelittleguy.blogspot.com##DIV[id="exestylepopupdiv"]
+lcthelittleguy.blogspot.com##IMG[src="https://lh6.googleusercontent.com/-uSW_8HWcJII/T9shJ_kvWwI/AAAAAAAACgI/9xs1KMJtUtc/s40/exeideasclose.png"]
+open-dialogues.blogspot.tw##DIV[id="comments"][class="comments"]
+s90.ptt01.cc##A[class="btn btn-lg btn-block"]
+s90.ptt01.cc##DIV[class="fancybox-overlay fancybox-overlay-fixed"]
+s92.ptt01.cc##DIV[class="fancybox-overlay fancybox-overlay-fixed"]
+seoulsunday.com##A[class="btn btn-lg btn-block btn-facebook center-block share_on_facebook"]
+seoulsunday.com##A[class="fancybox-item fancybox-close"]
+seoulsunday.com##DIV[class="fancybox-overlay fancybox-overlay-fixed"]
+seoulsunday.com##DIV[class="fancybox-skin"]
+shareba.com###cLightBoxBackView
+shareba.com###show_box_close
+shareba.com###show_box_main
+shareba.com###show_box_title
+shareba.com##.social-icons
+stoneip.info##A[id="arevicofancy-close"]
+teepr.com###WFIheader
+teepr.com###mobileFBLike
+teepr.com###popmake-103747
+teepr.com###popmake-145753
+teepr.com###popmake-overlay
+teepr.com###topAdBlock
+teepr.com###vdsShare
+teepr.com###wf-sort-id
+teepr.com##.hoverable.share-fb.post-bot-fb
+teepr.com##.mobile-fb-like-box
+teepr.com##.popmake-close
+teepr.com##.popmake-overlay
+teepr.com##.popmake.size-auto.active.fixed.custom-position
+teepr.com##.popmake.size-custom.active.fixed.custom-position
+teepr.com##.scroll-trigger-text
+teepr.com##.topad
+teepr.com##.wf-header.el
+teepr.com##.wf-sortable
+teepr.com##h1[style="margin: 0px 0px 5px; padding: 0 10px; background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); font-size: 20px; font-weight: normal; font-family: arial; text-align: center;"]
+tw.gigacircle.com###geom_inter_1_1427263462180_42
+tw.gigacircle.com###geom_inter_2_1427263334974_93
+tw.gigacircle.com##.fb-box
+tw.gigacircle.com##.fb-form
+vdoobv.com##DIV[class="td-tags-and-social-wrapper-box td-tags-and-social-wrapper-box-bottom-line"]
+win10.ithome.com##.app
+win10.ithome.com##.sfa.block1
+win10.ithome.com##.sfa.block1.joinus
+win10.ithome.com##.text1
+win10.ithome.com##.weixin
+win8china.com###recommend
+win8china.com##.close
+win8china.com##.recommend_box
+win8china.com##.share2
+win8china.com##.social_share
+www.ettoday.net###commentTab
+www.ettoday.net###et-express
+www.ettoday.net###for-event
+www.ettoday.net###news-keywords
+www.ettoday.net###pet-menu
+www.ettoday.net###prev-next-news
+www.ettoday.net##.block
+www.ettoday.net##.block_content
+www.ettoday.net##.block_footer
+www.ettoday.net##.block_title
+www.ettoday.net##.col_3.clearfix
+www.ettoday.net##.editor-choice
+www.ettoday.net##.epaper-subscribe
+www.ettoday.net##.ettop
+www.ettoday.net##.extended
+www.ettoday.net##.fb_fans.xfb
+www.ettoday.net##.inner
+www.ettoday.net##.label-tab
+www.ettoday.net##.menu_page
+www.ettoday.net##.menu_txt_2
+www.ettoday.net##.menu_txt_3
+www.ettoday.net##.no-print
+www.ettoday.net##.operate_1
+www.ettoday.net##.part_list_2
+www.ettoday.net##.part_thumb_1
+www.ettoday.net##.recom-events
+www.ettoday.net##.social_share
+www.ettoday.net##DIV[class="bshare-custom icon-medium-plus"]
+www.ettoday.net##DIV[class="overlay"]
+www.ettoday.net##DIV[class="pic"]
+www.ettoday.net##a[style="display:block;width:600px;height:322px;background:url(http://cache.ettoday.net/lemon/images/qrcode-600x322.jpg) no-repeat"]
+www.ettoday.net##a[style="display:block;width:600px;height:322px;background:url(http://www.ettoday.net/events/qrcode/star-qrcode-600X322.png) no-repeat"]
+www.ettoday.net##div[style="height:34px;line-height:34px;font-size:12px;background-color:#fff;padding:0 2px;"]
+www.ettoday.net##div[style="position:absolute;top:2px;right:5px;z-index:1;"]
+www.ettoday.net##p[style="color:#ff00ff;font-weight:bold;text-align:center"]
+www.ettoday.net##p[style="color:red;text-align:center"]
+www.fashionwaltz.com##DIV[class="shareaholic-share-buttons-container shareaholic-ui  badge-counter"]
+www.fashionwaltz.com##I[class="shareaholic-service-icon service-weibo"]
+www.life.com.tw##DIV[id="box"][class="leftshare shadow"]
+www.life.com.tw##DIV[id="btn-share-fb"]
+www.mobile01.com##P[class="nav"]
+www.setn.com##IMG[src="/images/black_icon.png"]
+www.setn.com##IMG[src="http://setmoney.blob.core.windows.net/images/4everYoung-105x190.gif"]
+www.taiyuku.com##A[class="wdpu-close"]
+www.taiyuku.com##DIV[class="wdpu-msg resize move no-move-x "]
+www.taiyuku.com##DIV[id="a7d35d984922b658eb2198ef0acc711e8"][class="style-simple wdpu-container wdpu-background no-img rounded wdpu-14782 "]
+www.taiyuku.com##DIV[id="abbb95558eb1c3f92eefa42addc4e2af5"][class="style-simple wdpu-container wdpu-background no-img rounded wdpu-14782 "]
+zh.buzzhand.com##A[class="ui_btn ui_btn_blue ml5 mr5 fb_aftercontent"]
+zh.buzzhand.com##A[class="ui_btn ui_btn_blue ml5 mr5"]
+zh.buzzhand.com##A[class="ui_btn ui_btn_blue"]
+zh.buzzhand.com##A[class="ui_btn ui_btn_red mr5"]
+zh.buzzhand.com##A[class="ui_btn ui_btn_red"]
+zh.buzzhand.com##DIV[class="mash-lightbox small-white-dialog shown mash-lightbox-fixed"]
+zh.buzzhand.com##DIV[id="sidebarShare"]
+zh.buzzhand.com##SPAN[class="addmore"]
+||50.115.124.117/attachments/block/81/815d0557818340e8357987a2550622c8.jpg
+||api.shareba.com/v1/plugins/like?href=http%3A%2F%2Fshareba.com%2F%3Fdo%3D%2Fblog%2F159842%2F&callback=false&ish=__sih1427268557590
+||ettoday.net/data/news-express-2.php?width=650&height=280&title=1&news=5&theme=light&content=all&border=#cccccc
+||ftvv.net/wp-content/uploads/2014/10/1-130115103515_%E5%89%AF%E6%9C%AC.jpg
+||img.ithome.com/images/v2.1/qr58.png
+||img.ithome.com/images/v2.1/weixin58.png
+||setn.com/images/email40.png
+||setn.com/images/fb40.png
+||setn.com/images/picon40.png
+||setn.com/images/sina40.png
+||shareba.com/theme/frontend/shareba/style/eversuper/image/icon/icon_p_03.png
+||teepr.com/fb_share_button.png
+||teepr.com/small-fb-share-btn.png
+||teepr.com/wp-content/themes/truepixel/images/email-icon.png
+||tw.gigacircle.com/images/SuperSale_GigaCircle720X85.jpg?v=3
+||ww2.sinaimg.cn/large/68f62d9btw1eqgj47i35oj20k802i74m.jpg
 thisav.com##CENTER
 thisav.com##SPAN
 calitatehd.com###fadeinbox > IFRAME:first-child
